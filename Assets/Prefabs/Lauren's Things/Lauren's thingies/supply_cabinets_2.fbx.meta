@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 2883b9396a3c3eb4a97b838fa6afb80b
+timeCreated: 1441984691
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: cabinet
+    100002: cabinet1
+    100004: cabinet2
+    100006: leftbottomhinge
+    100008: leftbottomhinge1
+    100010: leftbottomhinge2
+    100012: leftdoor
+    100014: leftdoor1
+    100016: leftdoor2
+    100018: lefthandle
+    100020: lefthandle1
+    100022: lefthandle2
+    100024: lefttophinge
+    100026: lefttophinge1
+    100028: lefttophinge2
+    100030: rightbottomhinge
+    100032: rightbottomhinge1
+    100034: rightbottomhinge2
+    100036: rightdoor
+    100038: rightdoor1
+    100040: rightdoor2
+    100042: righthandle
+    100044: righthandle1
+    100046: righthandle2
+    100048: righttophinge
+    100050: righttophinge1
+    100052: righttophinge2
+    100054: //RootNode
+    400000: cabinet
+    400002: cabinet1
+    400004: cabinet2
+    400006: leftbottomhinge
+    400008: leftbottomhinge1
+    400010: leftbottomhinge2
+    400012: leftdoor
+    400014: leftdoor1
+    400016: leftdoor2
+    400018: lefthandle
+    400020: lefthandle1
+    400022: lefthandle2
+    400024: lefttophinge
+    400026: lefttophinge1
+    400028: lefttophinge2
+    400030: rightbottomhinge
+    400032: rightbottomhinge1
+    400034: rightbottomhinge2
+    400036: rightdoor
+    400038: rightdoor1
+    400040: rightdoor2
+    400042: righthandle
+    400044: righthandle1
+    400046: righthandle2
+    400048: righttophinge
+    400050: righttophinge1
+    400052: righttophinge2
+    400054: //RootNode
+    2300000: cabinet
+    2300002: cabinet1
+    2300004: cabinet2
+    2300006: leftbottomhinge
+    2300008: leftbottomhinge1
+    2300010: leftbottomhinge2
+    2300012: leftdoor
+    2300014: leftdoor1
+    2300016: leftdoor2
+    2300018: lefthandle
+    2300020: lefthandle1
+    2300022: lefthandle2
+    2300024: lefttophinge
+    2300026: lefttophinge1
+    2300028: lefttophinge2
+    2300030: rightbottomhinge
+    2300032: rightbottomhinge1
+    2300034: rightbottomhinge2
+    2300036: rightdoor
+    2300038: rightdoor1
+    2300040: rightdoor2
+    2300042: righthandle
+    2300044: righthandle1
+    2300046: righthandle2
+    2300048: righttophinge
+    2300050: righttophinge1
+    2300052: righttophinge2
+    3300000: cabinet
+    3300002: cabinet1
+    3300004: cabinet2
+    3300006: leftbottomhinge
+    3300008: leftbottomhinge1
+    3300010: leftbottomhinge2
+    3300012: leftdoor
+    3300014: leftdoor1
+    3300016: leftdoor2
+    3300018: lefthandle
+    3300020: lefthandle1
+    3300022: lefthandle2
+    3300024: lefttophinge
+    3300026: lefttophinge1
+    3300028: lefttophinge2
+    3300030: rightbottomhinge
+    3300032: rightbottomhinge1
+    3300034: rightbottomhinge2
+    3300036: rightdoor
+    3300038: rightdoor1
+    3300040: rightdoor2
+    3300042: righthandle
+    3300044: righthandle1
+    3300046: righthandle2
+    3300048: righttophinge
+    3300050: righttophinge1
+    3300052: righttophinge2
+    4300000: cabinet
+    4300002: leftdoor
+    4300004: lefthandle
+    4300006: rightdoor
+    4300008: righthandle
+    4300010: lefttophinge
+    4300012: leftbottomhinge
+    4300014: rightbottomhinge
+    4300016: righttophinge
+    4300018: cabinet1
+    4300020: leftdoor1
+    4300022: lefthandle1
+    4300024: rightdoor1
+    4300026: righthandle1
+    4300028: lefttophinge1
+    4300030: leftbottomhinge1
+    4300032: rightbottomhinge1
+    4300034: righttophinge1
+    4300036: cabinet2
+    4300038: leftdoor2
+    4300040: lefthandle2
+    4300042: rightdoor2
+    4300044: righthandle2
+    4300046: lefttophinge2
+    4300048: leftbottomhinge2
+    4300050: rightbottomhinge2
+    4300052: righttophinge2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 814e86825220fb4459109fbc85cb02a3
+timeCreated: 1439337336
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back_wall_of_sink
+    100002: basin
+    100004: basin 1
+    100006: bottom_pipe
+    100008: faucet
+    100010: foam_soap_dispenser
+    100012: //RootNode
+    100014: left_handle
+    100016: paper_towel
+    100018: paper_towel_dispenser
+    100020: pipe
+    100022: pipe_support
+    100024: pipe_support_2
+    100026: right_handle
+    100028: sink
+    100030: soap_dispenser
+    400000: back_wall_of_sink
+    400002: basin
+    400004: basin 1
+    400006: bottom_pipe
+    400008: faucet
+    400010: foam_soap_dispenser
+    400012: //RootNode
+    400014: left_handle
+    400016: paper_towel
+    400018: paper_towel_dispenser
+    400020: pipe
+    400022: pipe_support
+    400024: pipe_support_2
+    400026: right_handle
+    400028: sink
+    400030: soap_dispenser
+    2300000: back_wall_of_sink
+    2300002: basin 1
+    2300004: bottom_pipe
+    2300006: faucet
+    2300008: foam_soap_dispenser
+    2300010: left_handle
+    2300012: paper_towel
+    2300014: paper_towel_dispenser
+    2300016: pipe
+    2300018: pipe_support
+    2300020: pipe_support_2
+    2300022: right_handle
+    2300024: soap_dispenser
+    3300000: back_wall_of_sink
+    3300002: basin 1
+    3300004: bottom_pipe
+    3300006: faucet
+    3300008: foam_soap_dispenser
+    3300010: left_handle
+    3300012: paper_towel
+    3300014: paper_towel_dispenser
+    3300016: pipe
+    3300018: pipe_support
+    3300020: pipe_support_2
+    3300022: right_handle
+    3300024: soap_dispenser
+    4300000: foam_soap_dispenser
+    4300002: paper_towel_dispenser
+    4300004: paper_towel
+    4300006: soap_dispenser
+    4300008: basin
+    4300010: back_wall_of_sink
+    4300012: faucet
+    4300014: left_handle
+    4300016: right_handle
+    4300018: pipe
+    4300020: pipe_support
+    4300022: pipe_support_2
+    4300024: bottom_pipe
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

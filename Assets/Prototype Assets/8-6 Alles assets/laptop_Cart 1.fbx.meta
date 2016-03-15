@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: c09807e4844c0db479e2fdb219cbdca1
+timeCreated: 1438897504
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back_beam
+    100002: desk_top
+    100004: keyboard
+    100006: keyboard 1
+    100008: //RootNode
+    100010: laptop_screen
+    100012: mouse
+    100014: pivot
+    100016: pivot1
+    100018: pivot2
+    100020: pivot3
+    100022: support_bar
+    100024: wheel
+    100026: wheel 1
+    100028: wheel 2
+    100030: wheel 3
+    100032: wheels
+    400000: back_beam
+    400002: desk_top
+    400004: keyboard
+    400006: keyboard 1
+    400008: //RootNode
+    400010: laptop_screen
+    400012: mouse
+    400014: pivot
+    400016: pivot1
+    400018: pivot2
+    400020: pivot3
+    400022: support_bar
+    400024: wheel
+    400026: wheel 1
+    400028: wheel 2
+    400030: wheel 3
+    400032: wheels
+    2300000: back_beam
+    2300002: desk_top
+    2300004: keyboard 1
+    2300006: //RootNode
+    2300008: laptop_screen
+    2300010: mouse
+    2300012: pivot
+    2300014: pivot1
+    2300016: pivot2
+    2300018: pivot3
+    2300020: support_bar
+    2300022: wheel
+    2300024: wheel 1
+    2300026: wheel 2
+    2300028: wheel 3
+    3300000: back_beam
+    3300002: desk_top
+    3300004: keyboard 1
+    3300006: //RootNode
+    3300008: laptop_screen
+    3300010: mouse
+    3300012: pivot
+    3300014: pivot1
+    3300016: pivot2
+    3300018: pivot3
+    3300020: support_bar
+    3300022: wheel
+    3300024: wheel 1
+    3300026: wheel 2
+    3300028: wheel 3
+    4300000: base
+    4300002: keyboard
+    4300004: mouse
+    4300006: laptop_screen
+    4300008: desk_top
+    4300010: back_beam
+    4300012: support_bar
+    4300014: pivot
+    4300016: wheel
+    4300018: pivot1
+    4300020: wheel
+    4300022: pivot3
+    4300024: wheel
+    4300026: pivot2
+    4300028: wheel
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

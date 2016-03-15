@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 953219343729e864fa6c3c6b93b1fab1
+timeCreated: 1443195131
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Axel
+    100002: Axel 1
+    100004: Axel 2
+    100006: Axel 3
+    100008: Caster_Frame6
+    100010: Caster_Frame6 1
+    100012: Caster_Frame6 2
+    100014: Caster_Frame6 3
+    100016: Casters
+    100018: Crib_Base
+    100020: Drawer_1
+    100022: Drawer_2
+    100024: glass
+    100026: group1
+    100028: group2
+    100030: group3
+    100032: group4
+    100034: Handle
+    100036: //RootNode
+    100038: Heater_display
+    100040: IV
+    100042: IV_Base
+    100044: IV_Rack
+    100046: Mattress
+    100048: Pedastal
+    100050: Pedastal_base
+    100052: Piston
+    100054: Rack
+    100056: Rail_1
+    100058: Rail_2
+    100060: Rail_Bracket
+    100062: Rails
+    100064: Ring
+    100066: Ring 1
+    100068: Tank_Support
+    100070: Tank_Support1
+    100072: Upper_Post
+    100074: Wheel
+    100076: Wheel 1
+    100078: Wheel 2
+    100080: Wheel 3
+    400000: Axel
+    400002: Axel 1
+    400004: Axel 2
+    400006: Axel 3
+    400008: Caster_Frame6
+    400010: Caster_Frame6 1
+    400012: Caster_Frame6 2
+    400014: Caster_Frame6 3
+    400016: Casters
+    400018: Crib_Base
+    400020: Drawer_1
+    400022: Drawer_2
+    400024: glass
+    400026: group1
+    400028: group2
+    400030: group3
+    400032: group4
+    400034: Handle
+    400036: //RootNode
+    400038: Heater_display
+    400040: IV
+    400042: IV_Base
+    400044: IV_Rack
+    400046: Mattress
+    400048: Pedastal
+    400050: Pedastal_base
+    400052: Piston
+    400054: Rack
+    400056: Rail_1
+    400058: Rail_2
+    400060: Rail_Bracket
+    400062: Rails
+    400064: Ring
+    400066: Ring 1
+    400068: Tank_Support
+    400070: Tank_Support1
+    400072: Upper_Post
+    400074: Wheel
+    400076: Wheel 1
+    400078: Wheel 2
+    400080: Wheel 3
+    2300000: Axel
+    2300002: Axel 1
+    2300004: Axel 2
+    2300006: Axel 3
+    2300008: Caster_Frame6
+    2300010: Caster_Frame6 1
+    2300012: Caster_Frame6 2
+    2300014: Caster_Frame6 3
+    2300016: Crib_Base
+    2300018: Drawer_1
+    2300020: Drawer_2
+    2300022: glass
+    2300024: Handle
+    2300026: Heater_display
+    2300028: IV_Base
+    2300030: Mattress
+    2300032: Pedastal
+    2300034: Pedastal_base
+    2300036: Piston
+    2300038: Rack
+    2300040: Rail_1
+    2300042: Rail_2
+    2300044: Rail_Bracket
+    2300046: Ring
+    2300048: Ring 1
+    2300050: Tank_Support
+    2300052: Tank_Support1
+    2300054: Upper_Post
+    2300056: Wheel
+    2300058: Wheel 1
+    2300060: Wheel 2
+    2300062: Wheel 3
+    3300000: Axel
+    3300002: Axel 1
+    3300004: Axel 2
+    3300006: Axel 3
+    3300008: Caster_Frame6
+    3300010: Caster_Frame6 1
+    3300012: Caster_Frame6 2
+    3300014: Caster_Frame6 3
+    3300016: Crib_Base
+    3300018: Drawer_1
+    3300020: Drawer_2
+    3300022: glass
+    3300024: Handle
+    3300026: Heater_display
+    3300028: IV_Base
+    3300030: Mattress
+    3300032: Pedastal
+    3300034: Pedastal_base
+    3300036: Piston
+    3300038: Rack
+    3300040: Rail_1
+    3300042: Rail_2
+    3300044: Rail_Bracket
+    3300046: Ring
+    3300048: Ring 1
+    3300050: Tank_Support
+    3300052: Tank_Support1
+    3300054: Upper_Post
+    3300056: Wheel
+    3300058: Wheel 1
+    3300060: Wheel 2
+    3300062: Wheel 3
+    4300000: Crib_Base
+    4300002: Pedastal_base
+    4300004: Drawer_1
+    4300006: Drawer_2
+    4300008: Piston
+    4300010: Axel
+    4300012: Wheel
+    4300014: Caster_Frame6
+    4300016: Axel
+    4300018: Wheel
+    4300020: Caster_Frame6
+    4300022: Axel
+    4300024: Wheel
+    4300026: Caster_Frame6
+    4300028: Axel
+    4300030: Wheel
+    4300032: Caster_Frame6
+    4300034: Rail_Bracket
+    4300036: Rail_1
+    4300038: Ring
+    4300040: Tank_Support
+    4300042: Rail_2
+    4300044: IV_Base
+    4300046: Handle
+    4300048: Upper_Post
+    4300050: Rack
+    4300052: Tank_Support1
+    4300054: Ring
+    4300056: Heater_display
+    4300058: Pedastal
+    4300060: glass
+    4300062: Mattress
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

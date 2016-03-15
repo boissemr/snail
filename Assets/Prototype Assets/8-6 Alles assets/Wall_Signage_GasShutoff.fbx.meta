@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: c7adaed94bdd2a74e873dc9a2721ad27
+timeCreated: 1439337365
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Gas_Shutoff
+    100002: Mega2_Panel
+    100004: Plaque
+    100006: Plaque1
+    100008: Plaque2
+    100010: Plaques
+    100012: ShutoffMap
+    100014: ShutoffPanel
+    100016: ShutoffPanel1
+    100018: //RootNode
+    400000: Gas_Shutoff
+    400002: Mega2_Panel
+    400004: Plaque
+    400006: Plaque1
+    400008: Plaque2
+    400010: Plaques
+    400012: ShutoffMap
+    400014: ShutoffPanel
+    400016: ShutoffPanel1
+    400018: //RootNode
+    2300000: Mega2_Panel
+    2300002: Plaque
+    2300004: Plaque1
+    2300006: Plaque2
+    2300008: ShutoffMap
+    2300010: ShutoffPanel
+    2300012: ShutoffPanel1
+    3300000: Mega2_Panel
+    3300002: Plaque
+    3300004: Plaque1
+    3300006: Plaque2
+    3300008: ShutoffMap
+    3300010: ShutoffPanel
+    3300012: ShutoffPanel1
+    4300000: Plaque
+    4300002: Plaque1
+    4300004: Plaque2
+    4300006: ShutoffPanel
+    4300008: ShutoffMap
+    4300010: Mega2_Panel
+    4300012: ShutoffPanel1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

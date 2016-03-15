@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 2a8e5932eb4e14f4bba7b943e7c56eea
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: buttons
+    100002: hooks
+    100004: hooks1
+    100006: hooks2
+    100008: hooks3
+    100010: hooks4
+    100012: IV_Base
+    100014: IV_Pole
+    100016: //RootNode
+    100018: outlet
+    100020: Pump
+    100022: rod
+    100024: wheel1
+    100026: wheel1 1
+    100028: wheel1 2
+    100030: wheel1 3
+    100032: wheel1 4
+    100034: wheel1 5
+    100036: wheel_bracket1
+    100038: wheel_bracket2
+    100040: wheel_bracket3
+    100042: wheel_bracket4
+    100044: wheel_bracket5
+    100046: wheel_bracket6
+    100048: wheel_brackets
+    400000: buttons
+    400002: hooks
+    400004: hooks1
+    400006: hooks2
+    400008: hooks3
+    400010: hooks4
+    400012: IV_Base
+    400014: IV_Pole
+    400016: //RootNode
+    400018: outlet
+    400020: Pump
+    400022: rod
+    400024: wheel1
+    400026: wheel1 1
+    400028: wheel1 2
+    400030: wheel1 3
+    400032: wheel1 4
+    400034: wheel1 5
+    400036: wheel_bracket1
+    400038: wheel_bracket2
+    400040: wheel_bracket3
+    400042: wheel_bracket4
+    400044: wheel_bracket5
+    400046: wheel_bracket6
+    400048: wheel_brackets
+    2300000: buttons
+    2300002: hooks1
+    2300004: hooks2
+    2300006: hooks3
+    2300008: hooks4
+    2300010: IV_Base
+    2300012: IV_Pole
+    2300014: outlet
+    2300016: Pump
+    2300018: rod
+    2300020: wheel1
+    2300022: wheel1 1
+    2300024: wheel1 2
+    2300026: wheel1 3
+    2300028: wheel1 4
+    2300030: wheel1 5
+    2300032: wheel_bracket1
+    2300034: wheel_bracket2
+    2300036: wheel_bracket3
+    2300038: wheel_bracket4
+    2300040: wheel_bracket5
+    2300042: wheel_bracket6
+    3300000: buttons
+    3300002: hooks1
+    3300004: hooks2
+    3300006: hooks3
+    3300008: hooks4
+    3300010: IV_Base
+    3300012: IV_Pole
+    3300014: outlet
+    3300016: Pump
+    3300018: rod
+    3300020: wheel1
+    3300022: wheel1 1
+    3300024: wheel1 2
+    3300026: wheel1 3
+    3300028: wheel1 4
+    3300030: wheel1 5
+    3300032: wheel_bracket1
+    3300034: wheel_bracket2
+    3300036: wheel_bracket3
+    3300038: wheel_bracket4
+    3300040: wheel_bracket5
+    3300042: wheel_bracket6
+    4300000: IV_Base
+    4300002: IV_Pole
+    4300004: buttons
+    4300006: hooks4
+    4300008: hooks3
+    4300010: hooks1
+    4300012: hooks2
+    4300014: rod
+    4300016: Pump
+    4300018: outlet
+    4300020: wheel_bracket6
+    4300022: wheel1
+    4300024: wheel_bracket5
+    4300026: wheel1
+    4300028: wheel_bracket4
+    4300030: wheel1
+    4300032: wheel_bracket3
+    4300034: wheel1
+    4300036: wheel_bracket2
+    4300038: wheel1
+    4300040: wheel_bracket1
+    4300042: wheel1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

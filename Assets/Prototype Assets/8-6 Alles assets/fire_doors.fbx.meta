@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 67694653992688e41abc304b808d545b
+timeCreated: 1439337325
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: block_on_door
+    100002: block_thing_above_door
+    100004: //RootNode
+    100006: hing_part_2
+    100008: hinge
+    100010: hinge2
+    100012: hinge_3
+    100014: hinge_block
+    100016: hinge_part1
+    100018: hinge_rotating_thing
+    100020: hinge_rotating_thing_2
+    100022: hinge_rotating_thing_3
+    100024: hinges
+    100026: left_door
+    100028: other_block_thing
+    100030: overhead_block_thing
+    100032: right_door
+    400000: block_on_door
+    400002: block_thing_above_door
+    400004: //RootNode
+    400006: hing_part_2
+    400008: hinge
+    400010: hinge2
+    400012: hinge_3
+    400014: hinge_block
+    400016: hinge_part1
+    400018: hinge_rotating_thing
+    400020: hinge_rotating_thing_2
+    400022: hinge_rotating_thing_3
+    400024: hinges
+    400026: left_door
+    400028: other_block_thing
+    400030: overhead_block_thing
+    400032: right_door
+    2300000: block_on_door
+    2300002: //RootNode
+    2300004: hing_part_2
+    2300006: hinge
+    2300008: hinge2
+    2300010: hinge_3
+    2300012: hinge_block
+    2300014: hinge_part1
+    2300016: hinge_rotating_thing
+    2300018: hinge_rotating_thing_2
+    2300020: hinge_rotating_thing_3
+    2300022: left_door
+    2300024: other_block_thing
+    2300026: overhead_block_thing
+    2300028: right_door
+    3300000: block_on_door
+    3300002: //RootNode
+    3300004: hing_part_2
+    3300006: hinge
+    3300008: hinge2
+    3300010: hinge_3
+    3300012: hinge_block
+    3300014: hinge_part1
+    3300016: hinge_rotating_thing
+    3300018: hinge_rotating_thing_2
+    3300020: hinge_rotating_thing_3
+    3300022: left_door
+    3300024: other_block_thing
+    3300026: overhead_block_thing
+    3300028: right_door
+    4300000: door_frame
+    4300002: hinge_3
+    4300004: hinge2
+    4300006: hinge
+    4300008: hinge_block
+    4300010: block_on_door
+    4300012: overhead_block_thing
+    4300014: left_door
+    4300016: right_door
+    4300018: hinge_rotating_thing_3
+    4300020: hinge_part1
+    4300022: hinge_rotating_thing
+    4300024: hing_part_2
+    4300026: hinge_rotating_thing_2
+    4300028: other_block_thing
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 8acc600c6388f224d8396d754ae2bb53
+timeCreated: 1442078706
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: doors
+    100002: drawers
+    100004: lefT_door
+    100006: left_door_handle
+    100008: left_drawer
+    100010: left_handle
+    100012: metal_shtuff
+    100014: pivot_thing
+    100016: pivot_thing1
+    100018: pivot_thing2
+    100020: pivot_thing3
+    100022: right_door
+    100024: right_door_handle
+    100026: right_drawer
+    100028: right_handle
+    100030: shel
+    100032: shelf
+    100034: //RootNode
+    400000: doors
+    400002: drawers
+    400004: lefT_door
+    400006: left_door_handle
+    400008: left_drawer
+    400010: left_handle
+    400012: metal_shtuff
+    400014: pivot_thing
+    400016: pivot_thing1
+    400018: pivot_thing2
+    400020: pivot_thing3
+    400022: right_door
+    400024: right_door_handle
+    400026: right_drawer
+    400028: right_handle
+    400030: shel
+    400032: shelf
+    400034: //RootNode
+    2300000: lefT_door
+    2300002: left_door_handle
+    2300004: left_drawer
+    2300006: left_handle
+    2300008: pivot_thing
+    2300010: pivot_thing1
+    2300012: pivot_thing2
+    2300014: pivot_thing3
+    2300016: right_door
+    2300018: right_door_handle
+    2300020: right_drawer
+    2300022: right_handle
+    2300024: shel
+    2300026: shelf
+    2300028: //RootNode
+    3300000: lefT_door
+    3300002: left_door_handle
+    3300004: left_drawer
+    3300006: left_handle
+    3300008: pivot_thing
+    3300010: pivot_thing1
+    3300012: pivot_thing2
+    3300014: pivot_thing3
+    3300016: right_door
+    3300018: right_door_handle
+    3300020: right_drawer
+    3300022: right_handle
+    3300024: shel
+    3300026: shelf
+    3300028: //RootNode
+    4300000: cabinet
+    4300002: right_door
+    4300004: right_door_handle
+    4300006: lefT_door
+    4300008: left_door_handle
+    4300010: left_drawer
+    4300012: left_handle
+    4300014: right_drawer
+    4300016: right_handle
+    4300018: pivot_thing
+    4300020: pivot_thing1
+    4300022: pivot_thing2
+    4300024: pivot_thing3
+    4300026: shelf
+    4300028: shel
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

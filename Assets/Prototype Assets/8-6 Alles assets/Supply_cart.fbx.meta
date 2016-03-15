@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 5f1cf54b376011542a49816bc41c158d
+timeCreated: 1439337321
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: door
+    100002: drawers
+    100004: pCube2
+    100006: pCube3
+    100008: pCube4
+    100010: pCube5
+    100012: pCube6
+    100014: //RootNode
+    100016: trash_can
+    100018: wheel
+    100020: wheel 1
+    100022: wheel1
+    100024: wheel2
+    100026: Wheel_Cube
+    100028: Wheel_Cube1
+    100030: Wheel_Cube2
+    100032: Wheel_Cube4
+    100034: Wheel_Cube5
+    100036: wheels
+    400000: door
+    400002: drawers
+    400004: pCube2
+    400006: pCube3
+    400008: pCube4
+    400010: pCube5
+    400012: pCube6
+    400014: //RootNode
+    400016: trash_can
+    400018: wheel
+    400020: wheel 1
+    400022: wheel1
+    400024: wheel2
+    400026: Wheel_Cube
+    400028: Wheel_Cube1
+    400030: Wheel_Cube2
+    400032: Wheel_Cube4
+    400034: Wheel_Cube5
+    400036: wheels
+    2300000: door
+    2300002: pCube2
+    2300004: pCube3
+    2300006: pCube4
+    2300008: pCube5
+    2300010: pCube6
+    2300012: //RootNode
+    2300014: trash_can
+    2300016: wheel
+    2300018: wheel 1
+    2300020: wheel1
+    2300022: wheel2
+    2300024: Wheel_Cube
+    2300026: Wheel_Cube1
+    2300028: Wheel_Cube2
+    2300030: Wheel_Cube4
+    2300032: Wheel_Cube5
+    3300000: door
+    3300002: pCube2
+    3300004: pCube3
+    3300006: pCube4
+    3300008: pCube5
+    3300010: pCube6
+    3300012: //RootNode
+    3300014: trash_can
+    3300016: wheel
+    3300018: wheel 1
+    3300020: wheel1
+    3300022: wheel2
+    3300024: Wheel_Cube
+    3300026: Wheel_Cube1
+    3300028: Wheel_Cube2
+    3300030: Wheel_Cube4
+    3300032: Wheel_Cube5
+    4300000: supply_cabinet
+    4300002: door
+    4300004: Wheel_Cube
+    4300006: Wheel_Cube1
+    4300008: wheel
+    4300010: Wheel_Cube4
+    4300012: Wheel_Cube2
+    4300014: Wheel_Cube5
+    4300016: wheel
+    4300018: wheel1
+    4300020: wheel2
+    4300022: trash_can
+    4300024: pCube2
+    4300026: pCube3
+    4300028: pCube4
+    4300030: pCube5
+    4300032: pCube6
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

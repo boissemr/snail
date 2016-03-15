@@ -1,0 +1,1702 @@
+fileFormatVersion: 2
+guid: 037c86576612c1f4092021d45887a197
+timeCreated: 1444765560
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: B_Sign
+    100002: back_bumper
+    100004: back_bumper 1
+    100006: body
+    100008: body1
+    100010: bottom_tube
+    100012: bottom_tube 1
+    100014: bottom_tube 2
+    100016: bumper1
+    100018: bumper1 1
+    100020: carpet1
+    100022: central_circle_ground
+    100024: chairs
+    100026: column13
+    100028: column14
+    100030: column7
+    100032: column8
+    100034: computers
+    100036: curb_things
+    100038: desks
+    100040: door
+    100042: door 1
+    100044: door_frame
+    100046: door_frame 1
+    100048: first_floor:column1
+    100050: first_floor:column13
+    100052: first_floor:column16
+    100054: first_floor:column17
+    100056: first_floor:column5
+    100058: first_floor:columns
+    100060: first_floor:columns 1
+    100062: first_floor:columns 2
+    100064: first_floor:columns 3
+    100066: first_floor:connector_thing4
+    100068: first_floor:connector_thing5
+    100070: first_floor:cushions
+    100072: first_floor:cushions 1
+    100074: first_floor:cushions 2
+    100076: first_floor:cushions 3
+    100078: first_floor:cushions 4
+    100080: first_floor:door
+    100082: first_floor:door 1
+    100084: first_floor:door 2
+    100086: first_floor:door 3
+    100088: first_floor:door_frame
+    100090: first_floor:door_frame 1
+    100092: first_floor:door_frame 2
+    100094: first_floor:door_frame 3
+    100096: first_floor:doorways
+    100098: first_floor:frame
+    100100: first_floor:frame1
+    100102: first_floor:frame2
+    100104: first_floor:frame3
+    100106: first_floor:frame4
+    100108: first_floor:group1
+    100110: first_floor:group2
+    100112: first_floor:imagePlane1
+    100114: first_floor:overhang
+    100116: first_floor:overhang1
+    100118: first_floor:overhang2
+    100120: first_floor:overhang3
+    100122: first_floor:pCube1
+    100124: first_floor:pCube2
+    100126: first_floor:seat1
+    100128: first_floor:seat1 1
+    100130: first_floor:seat1 2
+    100132: first_floor:seat1 3
+    100134: first_floor:seat1 4
+    100136: first_floor:seat3
+    100138: first_floor:seat3 1
+    100140: first_floor:seat3 2
+    100142: first_floor:seat3 3
+    100144: first_floor:seat3 4
+    100146: first_floor:seat_2
+    100148: first_floor:seat_2 1
+    100150: first_floor:seat_2 2
+    100152: first_floor:seat_2 3
+    100154: first_floor:seat_2 4
+    100156: first_floor:seat_back1
+    100158: first_floor:seat_back1 1
+    100160: first_floor:seat_back1 2
+    100162: first_floor:seat_back1 3
+    100164: first_floor:seat_back1 4
+    100166: first_floor:seat_back2
+    100168: first_floor:seat_back2 1
+    100170: first_floor:seat_back2 2
+    100172: first_floor:seat_back2 3
+    100174: first_floor:seat_back2 4
+    100176: first_floor:seat_back3
+    100178: first_floor:seat_back3 1
+    100180: first_floor:seat_back3 2
+    100182: first_floor:seat_back3 3
+    100184: first_floor:seat_back3 4
+    100186: first_floor:transform1
+    100188: first_floor:transform2
+    100190: first_floor:windows
+    100192: first_floor:windows 1
+    100194: first_floor:windows 2
+    100196: first_floor:windows 3
+    100198: first_floor:windows1
+    100200: first_floor:windows1 1
+    100202: first_floor:windows2
+    100204: first_floor:windows2 1
+    100206: first_floor:windows3
+    100208: first_floor:windows4
+    100210: first_floor:windows5
+    100212: first_floor:windows6
+    100214: first_floor:windows7
+    100216: first_floor:windows8
+    100218: flag
+    100220: flag1
+    100222: flag2
+    100224: flag3
+    100226: flag4
+    100228: flag5
+    100230: flag6
+    100232: flag7
+    100234: flag8
+    100236: flag_pole_ncloth:flag
+    100238: flag_pole_ncloth:polySurface1
+    100240: flags
+    100242: front_grill
+    100244: front_grill 1
+    100246: group1
+    100248: group2
+    100250: group3
+    100252: //RootNode
+    100254: house1
+    100256: house11
+    100258: house12
+    100260: house13
+    100262: house14
+    100264: house15
+    100266: house16
+    100268: house17
+    100270: house18
+    100272: house19
+    100274: house20
+    100276: house21
+    100278: house22
+    100280: house23
+    100282: house24
+    100284: house25
+    100286: house3
+    100288: house4
+    100290: house5
+    100292: house6
+    100294: house7
+    100296: house8
+    100298: house9
+    100300: houses
+    100302: imagePlane1
+    100304: inner_tub
+    100306: inner_tub 1
+    100308: inner_tub 2
+    100310: inside_floor
+    100312: inside_stuff
+    100314: lights
+    100316: lights 1
+    100318: lower_roof
+    100320: mirror1
+    100322: mirror1 1
+    100324: mirror2
+    100326: mirror2 1
+    100328: mirros
+    100330: mirros 1
+    100332: neighborhood_ground
+    100334: outer_building
+    100336: outer_roof
+    100338: outer_tube
+    100340: outer_tube 1
+    100342: outer_tube 2
+    100344: outside
+    100346: pCube1
+    100348: pCube10
+    100350: pCube11
+    100352: pCube13
+    100354: pCube19
+    100356: pCube2
+    100358: pCube2 1
+    100360: pCube2 2
+    100362: pCube2 3
+    100364: pCube20
+    100366: pCube21
+    100368: pCube22
+    100370: pCube23
+    100372: pCube3
+    100374: pCube6
+    100376: pCube8
+    100378: pCube9
+    100380: pCylinder1
+    100382: pCylinder19
+    100384: pCylinder2
+    100386: pCylinder4
+    100388: pCylinder4 1
+    100390: pCylinder4 10
+    100392: pCylinder4 11
+    100394: pCylinder4 12
+    100396: pCylinder4 13
+    100398: pCylinder4 14
+    100400: pCylinder4 15
+    100402: pCylinder4 16
+    100404: pCylinder4 17
+    100406: pCylinder4 18
+    100408: pCylinder4 19
+    100410: pCylinder4 2
+    100412: pCylinder4 3
+    100414: pCylinder4 4
+    100416: pCylinder4 5
+    100418: pCylinder4 6
+    100420: pCylinder4 7
+    100422: pCylinder4 8
+    100424: pCylinder4 9
+    100426: pCylinder5
+    100428: pCylinder5 1
+    100430: pCylinder5 10
+    100432: pCylinder5 11
+    100434: pCylinder5 12
+    100436: pCylinder5 13
+    100438: pCylinder5 14
+    100440: pCylinder5 15
+    100442: pCylinder5 16
+    100444: pCylinder5 17
+    100446: pCylinder5 18
+    100448: pCylinder5 19
+    100450: pCylinder5 2
+    100452: pCylinder5 3
+    100454: pCylinder5 4
+    100456: pCylinder5 5
+    100458: pCylinder5 6
+    100460: pCylinder5 7
+    100462: pCylinder5 8
+    100464: pCylinder5 9
+    100466: pedal1
+    100468: pedal1 1
+    100470: pedal1 2
+    100472: pedal2
+    100474: pedal2 1
+    100476: pedal2 2
+    100478: pedals
+    100480: pedals 1
+    100482: pedals 2
+    100484: pink_desk
+    100486: pink_desk3
+    100488: pink_desk4
+    100490: podium
+    100492: polySurface1
+    100494: polySurface1 1
+    100496: polySurface1 2
+    100498: polySurface1 3
+    100500: polySurface1 4
+    100502: polySurface1 5
+    100504: polySurface1 6
+    100506: polySurface1 7
+    100508: polySurface1 8
+    100510: polySurface2
+    100512: polySurface3
+    100514: polySurface4
+    100516: polySurface5
+    100518: polySurface6
+    100520: polySurface7
+    100522: polySurface8
+    100524: polySurface9
+    100526: pPlane1
+    100528: pSphere10
+    100530: pSphere11
+    100532: pSphere2
+    100534: pSphere3
+    100536: pSphere4
+    100538: pSphere5
+    100540: pSphere6
+    100542: pSphere7
+    100544: pSphere8
+    100546: pSphere9
+    100548: rolling_chair_2:bottom_tube
+    100550: rolling_chair_2:inner_tub
+    100552: rolling_chair_2:outer_tube
+    100554: rolling_chair_2:pCylinder4
+    100556: rolling_chair_2:pCylinder4 1
+    100558: rolling_chair_2:pCylinder4 2
+    100560: rolling_chair_2:pCylinder4 3
+    100562: rolling_chair_2:pCylinder4 4
+    100564: rolling_chair_2:pCylinder5
+    100566: rolling_chair_2:pCylinder5 1
+    100568: rolling_chair_2:pCylinder5 2
+    100570: rolling_chair_2:pCylinder5 3
+    100572: rolling_chair_2:pCylinder5 4
+    100574: rolling_chair_2:pedal1
+    100576: rolling_chair_2:pedal2
+    100578: rolling_chair_2:pedals
+    100580: rolling_chair_2:seat_back
+    100582: rolling_chair_2:seat_cushion
+    100584: rolling_chair_2:seat_support
+    100586: rolling_chair_2:support
+    100588: rolling_chair_2:support 1
+    100590: rolling_chair_2:support2
+    100592: rolling_chair_2:top_tube
+    100594: rolling_chair_2:tubes
+    100596: rolling_chair_2:wheel
+    100598: rolling_chair_2:wheel1
+    100600: rolling_chair_2:wheel2
+    100602: rolling_chair_2:wheel3
+    100604: rolling_chair_2:wheel4
+    100606: rolling_chair_2:wheels
+    100608: roof1
+    100610: seat_back
+    100612: seat_back 1
+    100614: seat_back 2
+    100616: seat_cushion
+    100618: seat_cushion1
+    100620: seat_cushion2
+    100622: seat_support
+    100624: seat_support 1
+    100626: seat_support 2
+    100628: sidewalk
+    100630: support
+    100632: support 1
+    100634: support 2
+    100636: support 3
+    100638: support 4
+    100640: support 5
+    100642: support2
+    100644: support2 1
+    100646: support2 2
+    100648: tire_thing
+    100650: tire_thing 1
+    100652: top_tube
+    100654: top_tube 1
+    100656: top_tube 2
+    100658: trashcan1
+    100660: trashcan2
+    100662: trashcan3
+    100664: trashcans
+    100666: tubes
+    100668: tubes 1
+    100670: tubes 2
+    100672: viewpoint
+    100674: wheel
+    100676: wheel 1
+    100678: wheel 2
+    100680: wheel 3
+    100682: wheel 4
+    100684: wheel1
+    100686: wheel1 1
+    100688: wheel1 2
+    100690: wheel1 3
+    100692: wheel1 4
+    100694: wheel2
+    100696: wheel2 1
+    100698: wheel2 2
+    100700: wheel2 3
+    100702: wheel2 4
+    100704: wheel3
+    100706: wheel3 1
+    100708: wheel3 2
+    100710: wheel3 3
+    100712: wheel3 4
+    100714: wheel4
+    100716: wheel4 1
+    100718: wheel4 2
+    100720: wheel4 3
+    100722: wheels
+    100724: wheels 1
+    100726: wheels 2
+    100728: wheels 3
+    100730: wheels 4
+    100732: windows
+    100734: windows 1
+    100736: windows 2
+    100738: windows3
+    100740: windows4
+    100742: windows5
+    400000: B_Sign
+    400002: back_bumper
+    400004: back_bumper 1
+    400006: body
+    400008: body1
+    400010: bottom_tube
+    400012: bottom_tube 1
+    400014: bottom_tube 2
+    400016: bumper1
+    400018: bumper1 1
+    400020: carpet1
+    400022: central_circle_ground
+    400024: chairs
+    400026: column13
+    400028: column14
+    400030: column7
+    400032: column8
+    400034: computers
+    400036: curb_things
+    400038: desks
+    400040: door
+    400042: door 1
+    400044: door_frame
+    400046: door_frame 1
+    400048: first_floor:column1
+    400050: first_floor:column13
+    400052: first_floor:column16
+    400054: first_floor:column17
+    400056: first_floor:column5
+    400058: first_floor:columns
+    400060: first_floor:columns 1
+    400062: first_floor:columns 2
+    400064: first_floor:columns 3
+    400066: first_floor:connector_thing4
+    400068: first_floor:connector_thing5
+    400070: first_floor:cushions
+    400072: first_floor:cushions 1
+    400074: first_floor:cushions 2
+    400076: first_floor:cushions 3
+    400078: first_floor:cushions 4
+    400080: first_floor:door
+    400082: first_floor:door 1
+    400084: first_floor:door 2
+    400086: first_floor:door 3
+    400088: first_floor:door_frame
+    400090: first_floor:door_frame 1
+    400092: first_floor:door_frame 2
+    400094: first_floor:door_frame 3
+    400096: first_floor:doorways
+    400098: first_floor:frame
+    400100: first_floor:frame1
+    400102: first_floor:frame2
+    400104: first_floor:frame3
+    400106: first_floor:frame4
+    400108: first_floor:group1
+    400110: first_floor:group2
+    400112: first_floor:imagePlane1
+    400114: first_floor:overhang
+    400116: first_floor:overhang1
+    400118: first_floor:overhang2
+    400120: first_floor:overhang3
+    400122: first_floor:pCube1
+    400124: first_floor:pCube2
+    400126: first_floor:seat1
+    400128: first_floor:seat1 1
+    400130: first_floor:seat1 2
+    400132: first_floor:seat1 3
+    400134: first_floor:seat1 4
+    400136: first_floor:seat3
+    400138: first_floor:seat3 1
+    400140: first_floor:seat3 2
+    400142: first_floor:seat3 3
+    400144: first_floor:seat3 4
+    400146: first_floor:seat_2
+    400148: first_floor:seat_2 1
+    400150: first_floor:seat_2 2
+    400152: first_floor:seat_2 3
+    400154: first_floor:seat_2 4
+    400156: first_floor:seat_back1
+    400158: first_floor:seat_back1 1
+    400160: first_floor:seat_back1 2
+    400162: first_floor:seat_back1 3
+    400164: first_floor:seat_back1 4
+    400166: first_floor:seat_back2
+    400168: first_floor:seat_back2 1
+    400170: first_floor:seat_back2 2
+    400172: first_floor:seat_back2 3
+    400174: first_floor:seat_back2 4
+    400176: first_floor:seat_back3
+    400178: first_floor:seat_back3 1
+    400180: first_floor:seat_back3 2
+    400182: first_floor:seat_back3 3
+    400184: first_floor:seat_back3 4
+    400186: first_floor:transform1
+    400188: first_floor:transform2
+    400190: first_floor:windows
+    400192: first_floor:windows 1
+    400194: first_floor:windows 2
+    400196: first_floor:windows 3
+    400198: first_floor:windows1
+    400200: first_floor:windows1 1
+    400202: first_floor:windows2
+    400204: first_floor:windows2 1
+    400206: first_floor:windows3
+    400208: first_floor:windows4
+    400210: first_floor:windows5
+    400212: first_floor:windows6
+    400214: first_floor:windows7
+    400216: first_floor:windows8
+    400218: flag
+    400220: flag1
+    400222: flag2
+    400224: flag3
+    400226: flag4
+    400228: flag5
+    400230: flag6
+    400232: flag7
+    400234: flag8
+    400236: flag_pole_ncloth:flag
+    400238: flag_pole_ncloth:polySurface1
+    400240: flags
+    400242: front_grill
+    400244: front_grill 1
+    400246: group1
+    400248: group2
+    400250: group3
+    400252: //RootNode
+    400254: house1
+    400256: house11
+    400258: house12
+    400260: house13
+    400262: house14
+    400264: house15
+    400266: house16
+    400268: house17
+    400270: house18
+    400272: house19
+    400274: house20
+    400276: house21
+    400278: house22
+    400280: house23
+    400282: house24
+    400284: house25
+    400286: house3
+    400288: house4
+    400290: house5
+    400292: house6
+    400294: house7
+    400296: house8
+    400298: house9
+    400300: houses
+    400302: imagePlane1
+    400304: inner_tub
+    400306: inner_tub 1
+    400308: inner_tub 2
+    400310: inside_floor
+    400312: inside_stuff
+    400314: lights
+    400316: lights 1
+    400318: lower_roof
+    400320: mirror1
+    400322: mirror1 1
+    400324: mirror2
+    400326: mirror2 1
+    400328: mirros
+    400330: mirros 1
+    400332: neighborhood_ground
+    400334: outer_building
+    400336: outer_roof
+    400338: outer_tube
+    400340: outer_tube 1
+    400342: outer_tube 2
+    400344: outside
+    400346: pCube1
+    400348: pCube10
+    400350: pCube11
+    400352: pCube13
+    400354: pCube19
+    400356: pCube2
+    400358: pCube2 1
+    400360: pCube2 2
+    400362: pCube2 3
+    400364: pCube20
+    400366: pCube21
+    400368: pCube22
+    400370: pCube23
+    400372: pCube3
+    400374: pCube6
+    400376: pCube8
+    400378: pCube9
+    400380: pCylinder1
+    400382: pCylinder19
+    400384: pCylinder2
+    400386: pCylinder4
+    400388: pCylinder4 1
+    400390: pCylinder4 10
+    400392: pCylinder4 11
+    400394: pCylinder4 12
+    400396: pCylinder4 13
+    400398: pCylinder4 14
+    400400: pCylinder4 15
+    400402: pCylinder4 16
+    400404: pCylinder4 17
+    400406: pCylinder4 18
+    400408: pCylinder4 19
+    400410: pCylinder4 2
+    400412: pCylinder4 3
+    400414: pCylinder4 4
+    400416: pCylinder4 5
+    400418: pCylinder4 6
+    400420: pCylinder4 7
+    400422: pCylinder4 8
+    400424: pCylinder4 9
+    400426: pCylinder5
+    400428: pCylinder5 1
+    400430: pCylinder5 10
+    400432: pCylinder5 11
+    400434: pCylinder5 12
+    400436: pCylinder5 13
+    400438: pCylinder5 14
+    400440: pCylinder5 15
+    400442: pCylinder5 16
+    400444: pCylinder5 17
+    400446: pCylinder5 18
+    400448: pCylinder5 19
+    400450: pCylinder5 2
+    400452: pCylinder5 3
+    400454: pCylinder5 4
+    400456: pCylinder5 5
+    400458: pCylinder5 6
+    400460: pCylinder5 7
+    400462: pCylinder5 8
+    400464: pCylinder5 9
+    400466: pedal1
+    400468: pedal1 1
+    400470: pedal1 2
+    400472: pedal2
+    400474: pedal2 1
+    400476: pedal2 2
+    400478: pedals
+    400480: pedals 1
+    400482: pedals 2
+    400484: pink_desk
+    400486: pink_desk3
+    400488: pink_desk4
+    400490: podium
+    400492: polySurface1
+    400494: polySurface1 1
+    400496: polySurface1 2
+    400498: polySurface1 3
+    400500: polySurface1 4
+    400502: polySurface1 5
+    400504: polySurface1 6
+    400506: polySurface1 7
+    400508: polySurface1 8
+    400510: polySurface2
+    400512: polySurface3
+    400514: polySurface4
+    400516: polySurface5
+    400518: polySurface6
+    400520: polySurface7
+    400522: polySurface8
+    400524: polySurface9
+    400526: pPlane1
+    400528: pSphere10
+    400530: pSphere11
+    400532: pSphere2
+    400534: pSphere3
+    400536: pSphere4
+    400538: pSphere5
+    400540: pSphere6
+    400542: pSphere7
+    400544: pSphere8
+    400546: pSphere9
+    400548: rolling_chair_2:bottom_tube
+    400550: rolling_chair_2:inner_tub
+    400552: rolling_chair_2:outer_tube
+    400554: rolling_chair_2:pCylinder4
+    400556: rolling_chair_2:pCylinder4 1
+    400558: rolling_chair_2:pCylinder4 2
+    400560: rolling_chair_2:pCylinder4 3
+    400562: rolling_chair_2:pCylinder4 4
+    400564: rolling_chair_2:pCylinder5
+    400566: rolling_chair_2:pCylinder5 1
+    400568: rolling_chair_2:pCylinder5 2
+    400570: rolling_chair_2:pCylinder5 3
+    400572: rolling_chair_2:pCylinder5 4
+    400574: rolling_chair_2:pedal1
+    400576: rolling_chair_2:pedal2
+    400578: rolling_chair_2:pedals
+    400580: rolling_chair_2:seat_back
+    400582: rolling_chair_2:seat_cushion
+    400584: rolling_chair_2:seat_support
+    400586: rolling_chair_2:support
+    400588: rolling_chair_2:support 1
+    400590: rolling_chair_2:support2
+    400592: rolling_chair_2:top_tube
+    400594: rolling_chair_2:tubes
+    400596: rolling_chair_2:wheel
+    400598: rolling_chair_2:wheel1
+    400600: rolling_chair_2:wheel2
+    400602: rolling_chair_2:wheel3
+    400604: rolling_chair_2:wheel4
+    400606: rolling_chair_2:wheels
+    400608: roof1
+    400610: seat_back
+    400612: seat_back 1
+    400614: seat_back 2
+    400616: seat_cushion
+    400618: seat_cushion1
+    400620: seat_cushion2
+    400622: seat_support
+    400624: seat_support 1
+    400626: seat_support 2
+    400628: sidewalk
+    400630: support
+    400632: support 1
+    400634: support 2
+    400636: support 3
+    400638: support 4
+    400640: support 5
+    400642: support2
+    400644: support2 1
+    400646: support2 2
+    400648: tire_thing
+    400650: tire_thing 1
+    400652: top_tube
+    400654: top_tube 1
+    400656: top_tube 2
+    400658: trashcan1
+    400660: trashcan2
+    400662: trashcan3
+    400664: trashcans
+    400666: tubes
+    400668: tubes 1
+    400670: tubes 2
+    400672: viewpoint
+    400674: wheel
+    400676: wheel 1
+    400678: wheel 2
+    400680: wheel 3
+    400682: wheel 4
+    400684: wheel1
+    400686: wheel1 1
+    400688: wheel1 2
+    400690: wheel1 3
+    400692: wheel1 4
+    400694: wheel2
+    400696: wheel2 1
+    400698: wheel2 2
+    400700: wheel2 3
+    400702: wheel2 4
+    400704: wheel3
+    400706: wheel3 1
+    400708: wheel3 2
+    400710: wheel3 3
+    400712: wheel3 4
+    400714: wheel4
+    400716: wheel4 1
+    400718: wheel4 2
+    400720: wheel4 3
+    400722: wheels
+    400724: wheels 1
+    400726: wheels 2
+    400728: wheels 3
+    400730: wheels 4
+    400732: windows
+    400734: windows 1
+    400736: windows 2
+    400738: windows3
+    400740: windows4
+    400742: windows5
+    2300000: B_Sign
+    2300002: back_bumper
+    2300004: back_bumper 1
+    2300006: body
+    2300008: body1
+    2300010: bottom_tube
+    2300012: bottom_tube 1
+    2300014: bottom_tube 2
+    2300016: bumper1
+    2300018: bumper1 1
+    2300020: carpet1
+    2300022: central_circle_ground
+    2300024: column13
+    2300026: column14
+    2300028: column7
+    2300030: column8
+    2300032: door
+    2300034: door 1
+    2300036: door_frame
+    2300038: door_frame 1
+    2300040: first_floor:column13
+    2300042: first_floor:column16
+    2300044: first_floor:column17
+    2300046: first_floor:connector_thing4
+    2300048: first_floor:connector_thing5
+    2300050: first_floor:door
+    2300052: first_floor:door 1
+    2300054: first_floor:door 2
+    2300056: first_floor:door 3
+    2300058: first_floor:door_frame
+    2300060: first_floor:door_frame 1
+    2300062: first_floor:door_frame 2
+    2300064: first_floor:door_frame 3
+    2300066: first_floor:frame
+    2300068: first_floor:frame1
+    2300070: first_floor:frame2
+    2300072: first_floor:frame3
+    2300074: first_floor:frame4
+    2300076: first_floor:overhang
+    2300078: first_floor:overhang1
+    2300080: first_floor:overhang2
+    2300082: first_floor:overhang3
+    2300084: first_floor:pCube2
+    2300086: first_floor:seat1
+    2300088: first_floor:seat1 1
+    2300090: first_floor:seat1 2
+    2300092: first_floor:seat1 3
+    2300094: first_floor:seat1 4
+    2300096: first_floor:seat3
+    2300098: first_floor:seat3 1
+    2300100: first_floor:seat3 2
+    2300102: first_floor:seat3 3
+    2300104: first_floor:seat3 4
+    2300106: first_floor:seat_2
+    2300108: first_floor:seat_2 1
+    2300110: first_floor:seat_2 2
+    2300112: first_floor:seat_2 3
+    2300114: first_floor:seat_2 4
+    2300116: first_floor:seat_back1
+    2300118: first_floor:seat_back1 1
+    2300120: first_floor:seat_back1 2
+    2300122: first_floor:seat_back1 3
+    2300124: first_floor:seat_back1 4
+    2300126: first_floor:seat_back2
+    2300128: first_floor:seat_back2 1
+    2300130: first_floor:seat_back2 2
+    2300132: first_floor:seat_back2 3
+    2300134: first_floor:seat_back2 4
+    2300136: first_floor:seat_back3
+    2300138: first_floor:seat_back3 1
+    2300140: first_floor:seat_back3 2
+    2300142: first_floor:seat_back3 3
+    2300144: first_floor:seat_back3 4
+    2300146: first_floor:windows
+    2300148: first_floor:windows 1
+    2300150: first_floor:windows 2
+    2300152: first_floor:windows 3
+    2300154: first_floor:windows1
+    2300156: first_floor:windows1 1
+    2300158: first_floor:windows2
+    2300160: first_floor:windows2 1
+    2300162: first_floor:windows3
+    2300164: first_floor:windows4
+    2300166: first_floor:windows5
+    2300168: first_floor:windows6
+    2300170: first_floor:windows7
+    2300172: first_floor:windows8
+    2300174: flag
+    2300176: flag1
+    2300178: flag2
+    2300180: flag3
+    2300182: flag4
+    2300184: flag5
+    2300186: flag6
+    2300188: flag7
+    2300190: flag8
+    2300192: flag_pole_ncloth:flag
+    2300194: flag_pole_ncloth:polySurface1
+    2300196: front_grill
+    2300198: front_grill 1
+    2300200: house1
+    2300202: house11
+    2300204: house12
+    2300206: house13
+    2300208: house14
+    2300210: house15
+    2300212: house16
+    2300214: house17
+    2300216: house18
+    2300218: house19
+    2300220: house20
+    2300222: house21
+    2300224: house22
+    2300226: house23
+    2300228: house24
+    2300230: house25
+    2300232: house3
+    2300234: house4
+    2300236: house5
+    2300238: house6
+    2300240: house7
+    2300242: house8
+    2300244: house9
+    2300246: inner_tub
+    2300248: inner_tub 1
+    2300250: inner_tub 2
+    2300252: inside_floor
+    2300254: lights
+    2300256: lights 1
+    2300258: lower_roof
+    2300260: mirror1
+    2300262: mirror1 1
+    2300264: mirror2
+    2300266: mirror2 1
+    2300268: neighborhood_ground
+    2300270: outer_roof
+    2300272: outer_tube
+    2300274: outer_tube 1
+    2300276: outer_tube 2
+    2300278: pCube1
+    2300280: pCube10
+    2300282: pCube11
+    2300284: pCube13
+    2300286: pCube19
+    2300288: pCube2
+    2300290: pCube2 1
+    2300292: pCube2 2
+    2300294: pCube2 3
+    2300296: pCube20
+    2300298: pCube21
+    2300300: pCube22
+    2300302: pCube23
+    2300304: pCube3
+    2300306: pCube6
+    2300308: pCube8
+    2300310: pCube9
+    2300312: pCylinder1
+    2300314: pCylinder2
+    2300316: pCylinder4
+    2300318: pCylinder4 1
+    2300320: pCylinder4 10
+    2300322: pCylinder4 11
+    2300324: pCylinder4 12
+    2300326: pCylinder4 13
+    2300328: pCylinder4 14
+    2300330: pCylinder4 15
+    2300332: pCylinder4 16
+    2300334: pCylinder4 17
+    2300336: pCylinder4 18
+    2300338: pCylinder4 19
+    2300340: pCylinder4 2
+    2300342: pCylinder4 3
+    2300344: pCylinder4 4
+    2300346: pCylinder4 5
+    2300348: pCylinder4 6
+    2300350: pCylinder4 7
+    2300352: pCylinder4 8
+    2300354: pCylinder4 9
+    2300356: pCylinder5
+    2300358: pCylinder5 1
+    2300360: pCylinder5 10
+    2300362: pCylinder5 11
+    2300364: pCylinder5 12
+    2300366: pCylinder5 13
+    2300368: pCylinder5 14
+    2300370: pCylinder5 15
+    2300372: pCylinder5 16
+    2300374: pCylinder5 17
+    2300376: pCylinder5 18
+    2300378: pCylinder5 19
+    2300380: pCylinder5 2
+    2300382: pCylinder5 3
+    2300384: pCylinder5 4
+    2300386: pCylinder5 5
+    2300388: pCylinder5 6
+    2300390: pCylinder5 7
+    2300392: pCylinder5 8
+    2300394: pCylinder5 9
+    2300396: pedal1
+    2300398: pedal1 1
+    2300400: pedal1 2
+    2300402: pedal2
+    2300404: pedal2 1
+    2300406: pedal2 2
+    2300408: pink_desk
+    2300410: pink_desk3
+    2300412: pink_desk4
+    2300414: podium
+    2300416: polySurface1
+    2300418: polySurface1 1
+    2300420: polySurface1 2
+    2300422: polySurface1 3
+    2300424: polySurface1 4
+    2300426: polySurface1 5
+    2300428: polySurface1 6
+    2300430: polySurface1 7
+    2300432: polySurface1 8
+    2300434: polySurface2
+    2300436: polySurface3
+    2300438: polySurface4
+    2300440: polySurface5
+    2300442: polySurface7
+    2300444: polySurface8
+    2300446: polySurface9
+    2300448: pPlane1
+    2300450: pSphere10
+    2300452: pSphere11
+    2300454: pSphere2
+    2300456: pSphere3
+    2300458: pSphere4
+    2300460: pSphere5
+    2300462: pSphere6
+    2300464: pSphere7
+    2300466: pSphere8
+    2300468: pSphere9
+    2300470: rolling_chair_2:bottom_tube
+    2300472: rolling_chair_2:inner_tub
+    2300474: rolling_chair_2:outer_tube
+    2300476: rolling_chair_2:pCylinder4
+    2300478: rolling_chair_2:pCylinder4 1
+    2300480: rolling_chair_2:pCylinder4 2
+    2300482: rolling_chair_2:pCylinder4 3
+    2300484: rolling_chair_2:pCylinder4 4
+    2300486: rolling_chair_2:pCylinder5
+    2300488: rolling_chair_2:pCylinder5 1
+    2300490: rolling_chair_2:pCylinder5 2
+    2300492: rolling_chair_2:pCylinder5 3
+    2300494: rolling_chair_2:pCylinder5 4
+    2300496: rolling_chair_2:pedal1
+    2300498: rolling_chair_2:pedal2
+    2300500: rolling_chair_2:seat_back
+    2300502: rolling_chair_2:seat_cushion
+    2300504: rolling_chair_2:seat_support
+    2300506: rolling_chair_2:support 1
+    2300508: rolling_chair_2:support2
+    2300510: rolling_chair_2:top_tube
+    2300512: roof1
+    2300514: seat_back
+    2300516: seat_back 1
+    2300518: seat_back 2
+    2300520: seat_cushion
+    2300522: seat_cushion1
+    2300524: seat_cushion2
+    2300526: seat_support
+    2300528: seat_support 1
+    2300530: seat_support 2
+    2300532: sidewalk
+    2300534: support 3
+    2300536: support 4
+    2300538: support 5
+    2300540: support2
+    2300542: support2 1
+    2300544: support2 2
+    2300546: tire_thing
+    2300548: tire_thing 1
+    2300550: top_tube
+    2300552: top_tube 1
+    2300554: top_tube 2
+    2300556: trashcan1
+    2300558: trashcan2
+    2300560: trashcan3
+    2300562: viewpoint
+    2300564: wheel
+    2300566: wheel 1
+    2300568: wheel1
+    2300570: wheel1 1
+    2300572: wheel2
+    2300574: wheel2 1
+    2300576: wheel3
+    2300578: wheel3 1
+    2300580: windows
+    2300582: windows 1
+    2300584: windows 2
+    2300586: windows3
+    2300588: windows4
+    2300590: windows5
+    3300000: B_Sign
+    3300002: back_bumper
+    3300004: back_bumper 1
+    3300006: body
+    3300008: body1
+    3300010: bottom_tube
+    3300012: bottom_tube 1
+    3300014: bottom_tube 2
+    3300016: bumper1
+    3300018: bumper1 1
+    3300020: carpet1
+    3300022: central_circle_ground
+    3300024: column13
+    3300026: column14
+    3300028: column7
+    3300030: column8
+    3300032: door
+    3300034: door 1
+    3300036: door_frame
+    3300038: door_frame 1
+    3300040: first_floor:column13
+    3300042: first_floor:column16
+    3300044: first_floor:column17
+    3300046: first_floor:connector_thing4
+    3300048: first_floor:connector_thing5
+    3300050: first_floor:door
+    3300052: first_floor:door 1
+    3300054: first_floor:door 2
+    3300056: first_floor:door 3
+    3300058: first_floor:door_frame
+    3300060: first_floor:door_frame 1
+    3300062: first_floor:door_frame 2
+    3300064: first_floor:door_frame 3
+    3300066: first_floor:frame
+    3300068: first_floor:frame1
+    3300070: first_floor:frame2
+    3300072: first_floor:frame3
+    3300074: first_floor:frame4
+    3300076: first_floor:overhang
+    3300078: first_floor:overhang1
+    3300080: first_floor:overhang2
+    3300082: first_floor:overhang3
+    3300084: first_floor:pCube2
+    3300086: first_floor:seat1
+    3300088: first_floor:seat1 1
+    3300090: first_floor:seat1 2
+    3300092: first_floor:seat1 3
+    3300094: first_floor:seat1 4
+    3300096: first_floor:seat3
+    3300098: first_floor:seat3 1
+    3300100: first_floor:seat3 2
+    3300102: first_floor:seat3 3
+    3300104: first_floor:seat3 4
+    3300106: first_floor:seat_2
+    3300108: first_floor:seat_2 1
+    3300110: first_floor:seat_2 2
+    3300112: first_floor:seat_2 3
+    3300114: first_floor:seat_2 4
+    3300116: first_floor:seat_back1
+    3300118: first_floor:seat_back1 1
+    3300120: first_floor:seat_back1 2
+    3300122: first_floor:seat_back1 3
+    3300124: first_floor:seat_back1 4
+    3300126: first_floor:seat_back2
+    3300128: first_floor:seat_back2 1
+    3300130: first_floor:seat_back2 2
+    3300132: first_floor:seat_back2 3
+    3300134: first_floor:seat_back2 4
+    3300136: first_floor:seat_back3
+    3300138: first_floor:seat_back3 1
+    3300140: first_floor:seat_back3 2
+    3300142: first_floor:seat_back3 3
+    3300144: first_floor:seat_back3 4
+    3300146: first_floor:windows
+    3300148: first_floor:windows 1
+    3300150: first_floor:windows 2
+    3300152: first_floor:windows 3
+    3300154: first_floor:windows1
+    3300156: first_floor:windows1 1
+    3300158: first_floor:windows2
+    3300160: first_floor:windows2 1
+    3300162: first_floor:windows3
+    3300164: first_floor:windows4
+    3300166: first_floor:windows5
+    3300168: first_floor:windows6
+    3300170: first_floor:windows7
+    3300172: first_floor:windows8
+    3300174: flag
+    3300176: flag1
+    3300178: flag2
+    3300180: flag3
+    3300182: flag4
+    3300184: flag5
+    3300186: flag6
+    3300188: flag7
+    3300190: flag8
+    3300192: flag_pole_ncloth:flag
+    3300194: flag_pole_ncloth:polySurface1
+    3300196: front_grill
+    3300198: front_grill 1
+    3300200: house1
+    3300202: house11
+    3300204: house12
+    3300206: house13
+    3300208: house14
+    3300210: house15
+    3300212: house16
+    3300214: house17
+    3300216: house18
+    3300218: house19
+    3300220: house20
+    3300222: house21
+    3300224: house22
+    3300226: house23
+    3300228: house24
+    3300230: house25
+    3300232: house3
+    3300234: house4
+    3300236: house5
+    3300238: house6
+    3300240: house7
+    3300242: house8
+    3300244: house9
+    3300246: inner_tub
+    3300248: inner_tub 1
+    3300250: inner_tub 2
+    3300252: inside_floor
+    3300254: lights
+    3300256: lights 1
+    3300258: lower_roof
+    3300260: mirror1
+    3300262: mirror1 1
+    3300264: mirror2
+    3300266: mirror2 1
+    3300268: neighborhood_ground
+    3300270: outer_roof
+    3300272: outer_tube
+    3300274: outer_tube 1
+    3300276: outer_tube 2
+    3300278: pCube1
+    3300280: pCube10
+    3300282: pCube11
+    3300284: pCube13
+    3300286: pCube19
+    3300288: pCube2
+    3300290: pCube2 1
+    3300292: pCube2 2
+    3300294: pCube2 3
+    3300296: pCube20
+    3300298: pCube21
+    3300300: pCube22
+    3300302: pCube23
+    3300304: pCube3
+    3300306: pCube6
+    3300308: pCube8
+    3300310: pCube9
+    3300312: pCylinder1
+    3300314: pCylinder2
+    3300316: pCylinder4
+    3300318: pCylinder4 1
+    3300320: pCylinder4 10
+    3300322: pCylinder4 11
+    3300324: pCylinder4 12
+    3300326: pCylinder4 13
+    3300328: pCylinder4 14
+    3300330: pCylinder4 15
+    3300332: pCylinder4 16
+    3300334: pCylinder4 17
+    3300336: pCylinder4 18
+    3300338: pCylinder4 19
+    3300340: pCylinder4 2
+    3300342: pCylinder4 3
+    3300344: pCylinder4 4
+    3300346: pCylinder4 5
+    3300348: pCylinder4 6
+    3300350: pCylinder4 7
+    3300352: pCylinder4 8
+    3300354: pCylinder4 9
+    3300356: pCylinder5
+    3300358: pCylinder5 1
+    3300360: pCylinder5 10
+    3300362: pCylinder5 11
+    3300364: pCylinder5 12
+    3300366: pCylinder5 13
+    3300368: pCylinder5 14
+    3300370: pCylinder5 15
+    3300372: pCylinder5 16
+    3300374: pCylinder5 17
+    3300376: pCylinder5 18
+    3300378: pCylinder5 19
+    3300380: pCylinder5 2
+    3300382: pCylinder5 3
+    3300384: pCylinder5 4
+    3300386: pCylinder5 5
+    3300388: pCylinder5 6
+    3300390: pCylinder5 7
+    3300392: pCylinder5 8
+    3300394: pCylinder5 9
+    3300396: pedal1
+    3300398: pedal1 1
+    3300400: pedal1 2
+    3300402: pedal2
+    3300404: pedal2 1
+    3300406: pedal2 2
+    3300408: pink_desk
+    3300410: pink_desk3
+    3300412: pink_desk4
+    3300414: podium
+    3300416: polySurface1
+    3300418: polySurface1 1
+    3300420: polySurface1 2
+    3300422: polySurface1 3
+    3300424: polySurface1 4
+    3300426: polySurface1 5
+    3300428: polySurface1 6
+    3300430: polySurface1 7
+    3300432: polySurface1 8
+    3300434: polySurface2
+    3300436: polySurface3
+    3300438: polySurface4
+    3300440: polySurface5
+    3300442: polySurface7
+    3300444: polySurface8
+    3300446: polySurface9
+    3300448: pPlane1
+    3300450: pSphere10
+    3300452: pSphere11
+    3300454: pSphere2
+    3300456: pSphere3
+    3300458: pSphere4
+    3300460: pSphere5
+    3300462: pSphere6
+    3300464: pSphere7
+    3300466: pSphere8
+    3300468: pSphere9
+    3300470: rolling_chair_2:bottom_tube
+    3300472: rolling_chair_2:inner_tub
+    3300474: rolling_chair_2:outer_tube
+    3300476: rolling_chair_2:pCylinder4
+    3300478: rolling_chair_2:pCylinder4 1
+    3300480: rolling_chair_2:pCylinder4 2
+    3300482: rolling_chair_2:pCylinder4 3
+    3300484: rolling_chair_2:pCylinder4 4
+    3300486: rolling_chair_2:pCylinder5
+    3300488: rolling_chair_2:pCylinder5 1
+    3300490: rolling_chair_2:pCylinder5 2
+    3300492: rolling_chair_2:pCylinder5 3
+    3300494: rolling_chair_2:pCylinder5 4
+    3300496: rolling_chair_2:pedal1
+    3300498: rolling_chair_2:pedal2
+    3300500: rolling_chair_2:seat_back
+    3300502: rolling_chair_2:seat_cushion
+    3300504: rolling_chair_2:seat_support
+    3300506: rolling_chair_2:support 1
+    3300508: rolling_chair_2:support2
+    3300510: rolling_chair_2:top_tube
+    3300512: roof1
+    3300514: seat_back
+    3300516: seat_back 1
+    3300518: seat_back 2
+    3300520: seat_cushion
+    3300522: seat_cushion1
+    3300524: seat_cushion2
+    3300526: seat_support
+    3300528: seat_support 1
+    3300530: seat_support 2
+    3300532: sidewalk
+    3300534: support 3
+    3300536: support 4
+    3300538: support 5
+    3300540: support2
+    3300542: support2 1
+    3300544: support2 2
+    3300546: tire_thing
+    3300548: tire_thing 1
+    3300550: top_tube
+    3300552: top_tube 1
+    3300554: top_tube 2
+    3300556: trashcan1
+    3300558: trashcan2
+    3300560: trashcan3
+    3300562: viewpoint
+    3300564: wheel
+    3300566: wheel 1
+    3300568: wheel1
+    3300570: wheel1 1
+    3300572: wheel2
+    3300574: wheel2 1
+    3300576: wheel3
+    3300578: wheel3 1
+    3300580: windows
+    3300582: windows 1
+    3300584: windows 2
+    3300586: windows3
+    3300588: windows4
+    3300590: windows5
+    4300000: pCube3
+    4300002: pCube6
+    4300004: pCube8
+    4300006: pCube9
+    4300008: pCube10
+    4300010: pCylinder1
+    4300012: pCylinder2
+    4300014: pCube11
+    4300016: pCube13
+    4300018: pCube19
+    4300020: pCube20
+    4300022: house1
+    4300024: house3
+    4300026: house4
+    4300028: house5
+    4300030: house6
+    4300032: house7
+    4300034: house8
+    4300036: house9
+    4300038: house11
+    4300040: house12
+    4300042: house13
+    4300044: house14
+    4300046: house15
+    4300048: house16
+    4300050: house17
+    4300052: house18
+    4300054: house19
+    4300056: house20
+    4300058: house21
+    4300060: house22
+    4300062: house23
+    4300064: house24
+    4300066: house25
+    4300068: polySurface2
+    4300070: polySurface3
+    4300072: polySurface4
+    4300074: polySurface5
+    4300076: body
+    4300078: lights
+    4300080: bumper1
+    4300082: back_bumper
+    4300084: wheel
+    4300086: pCylinder5
+    4300088: pCylinder4
+    4300090: wheel1
+    4300092: pCylinder5
+    4300094: pCylinder4
+    4300096: wheel2
+    4300098: pCylinder5
+    4300100: pCylinder4
+    4300102: wheel3
+    4300104: pCylinder5
+    4300106: pCylinder4
+    4300108: pCylinder5
+    4300110: pCylinder4
+    4300112: front_grill
+    4300114: tire_thing
+    4300116: mirror2
+    4300118: mirror1
+    4300120: pPlane1
+    4300122: body1
+    4300124: lights
+    4300126: bumper1
+    4300128: back_bumper
+    4300130: wheel
+    4300132: wheel1
+    4300134: wheel2
+    4300136: wheel3
+    4300138: front_grill
+    4300140: tire_thing
+    4300142: mirror2
+    4300144: mirror1
+    4300146: flag_pole_ncloth:flag
+    4300148: flag_pole_ncloth:polySurface1
+    4300150: flag
+    4300152: polySurface1
+    4300154: flag1
+    4300156: polySurface1
+    4300158: flag2
+    4300160: polySurface1
+    4300162: flag3
+    4300164: polySurface1
+    4300166: flag4
+    4300168: polySurface1
+    4300170: flag5
+    4300172: polySurface1
+    4300174: flag6
+    4300176: polySurface1
+    4300178: flag7
+    4300180: polySurface1
+    4300182: flag8
+    4300184: polySurface1
+    4300186: pSphere2
+    4300188: pSphere6
+    4300190: pSphere7
+    4300192: pSphere8
+    4300194: pSphere3
+    4300196: pSphere9
+    4300198: pSphere4
+    4300200: pSphere10
+    4300202: pSphere5
+    4300204: pSphere11
+    4300206: sidewalk
+    4300208: central_circle_ground
+    4300210: neighborhood_ground
+    4300212: polySurface8
+    4300214: polySurface9
+    4300216: polySurface7
+    4300218: first_floor:pCube2
+    4300220: first_floor:overhang
+    4300222: first_floor:door_frame
+    4300224: first_floor:door
+    4300226: first_floor:windows
+    4300228: windows3
+    4300230: windows4
+    4300232: windows
+    4300234: door_frame
+    4300236: door
+    4300238: first_floor:overhang1
+    4300240: first_floor:door_frame
+    4300242: first_floor:door
+    4300244: first_floor:windows
+    4300246: door_frame
+    4300248: door
+    4300250: windows
+    4300252: windows5
+    4300254: first_floor:overhang2
+    4300256: first_floor:door_frame
+    4300258: first_floor:door
+    4300260: first_floor:windows
+    4300262: first_floor:windows1
+    4300264: first_floor:windows2
+    4300266: first_floor:windows3
+    4300268: first_floor:windows4
+    4300270: first_floor:windows5
+    4300272: first_floor:windows6
+    4300274: first_floor:windows7
+    4300276: first_floor:windows8
+    4300278: first_floor:windows1
+    4300280: first_floor:windows2
+    4300282: windows
+    4300284: first_floor:overhang3
+    4300286: first_floor:door_frame
+    4300288: first_floor:door
+    4300290: first_floor:windows
+    4300292: first_floor:column16
+    4300294: column7
+    4300296: column8
+    4300298: first_floor:connector_thing4
+    4300300: first_floor:connector_thing5
+    4300302: first_floor:column13
+    4300304: first_floor:column17
+    4300306: first_floor:frame
+    4300308: first_floor:seat3
+    4300310: first_floor:seat_back3
+    4300312: first_floor:seat_back2
+    4300314: first_floor:seat_2
+    4300316: first_floor:seat_back1
+    4300318: first_floor:seat1
+    4300320: first_floor:frame1
+    4300322: first_floor:seat3
+    4300324: first_floor:seat_back3
+    4300326: first_floor:seat_back2
+    4300328: first_floor:seat_2
+    4300330: first_floor:seat_back1
+    4300332: first_floor:seat1
+    4300334: first_floor:frame2
+    4300336: first_floor:seat3
+    4300338: first_floor:seat_back3
+    4300340: first_floor:seat_back2
+    4300342: first_floor:seat_2
+    4300344: first_floor:seat_back1
+    4300346: first_floor:seat1
+    4300348: first_floor:frame3
+    4300350: first_floor:seat3
+    4300352: first_floor:seat_back3
+    4300354: first_floor:seat_back2
+    4300356: first_floor:seat_2
+    4300358: first_floor:seat_back1
+    4300360: first_floor:seat1
+    4300362: first_floor:frame4
+    4300364: first_floor:seat3
+    4300366: first_floor:seat_back3
+    4300368: first_floor:seat_back2
+    4300370: first_floor:seat_2
+    4300372: first_floor:seat_back1
+    4300374: first_floor:seat1
+    4300376: column13
+    4300378: column14
+    4300380: carpet1
+    4300382: trashcan1
+    4300384: trashcan2
+    4300386: trashcan3
+    4300388: pink_desk
+    4300390: pink_desk3
+    4300392: pink_desk4
+    4300394: podium
+    4300396: rolling_chair_2:seat_cushion
+    4300398: rolling_chair_2:seat_back
+    4300400: rolling_chair_2:support2
+    4300402: rolling_chair_2:support
+    4300404: rolling_chair_2:seat_support
+    4300406: rolling_chair_2:pedal2
+    4300408: rolling_chair_2:pedal1
+    4300410: rolling_chair_2:top_tube
+    4300412: rolling_chair_2:bottom_tube
+    4300414: rolling_chair_2:outer_tube
+    4300416: rolling_chair_2:inner_tub
+    4300418: rolling_chair_2:pCylinder5
+    4300420: rolling_chair_2:pCylinder4
+    4300422: rolling_chair_2:pCylinder5
+    4300424: rolling_chair_2:pCylinder4
+    4300426: rolling_chair_2:pCylinder5
+    4300428: rolling_chair_2:pCylinder4
+    4300430: rolling_chair_2:pCylinder5
+    4300432: rolling_chair_2:pCylinder4
+    4300434: rolling_chair_2:pCylinder5
+    4300436: rolling_chair_2:pCylinder4
+    4300438: seat_cushion
+    4300440: seat_back
+    4300442: support2
+    4300444: support
+    4300446: seat_support
+    4300448: pedal2
+    4300450: pedal1
+    4300452: top_tube
+    4300454: bottom_tube
+    4300456: outer_tube
+    4300458: inner_tub
+    4300460: pCylinder5
+    4300462: pCylinder4
+    4300464: pCylinder5
+    4300466: pCylinder4
+    4300468: pCylinder5
+    4300470: pCylinder4
+    4300472: pCylinder5
+    4300474: pCylinder4
+    4300476: pCylinder5
+    4300478: pCylinder4
+    4300480: seat_cushion1
+    4300482: seat_back
+    4300484: support2
+    4300486: support
+    4300488: seat_support
+    4300490: pedal2
+    4300492: pedal1
+    4300494: top_tube
+    4300496: bottom_tube
+    4300498: outer_tube
+    4300500: inner_tub
+    4300502: pCylinder5
+    4300504: pCylinder4
+    4300506: pCylinder5
+    4300508: pCylinder4
+    4300510: pCylinder5
+    4300512: pCylinder4
+    4300514: pCylinder5
+    4300516: pCylinder4
+    4300518: pCylinder5
+    4300520: pCylinder4
+    4300522: seat_cushion2
+    4300524: seat_back
+    4300526: support2
+    4300528: support
+    4300530: seat_support
+    4300532: pedal2
+    4300534: pedal1
+    4300536: top_tube
+    4300538: bottom_tube
+    4300540: outer_tube
+    4300542: inner_tub
+    4300544: pCylinder5
+    4300546: pCylinder4
+    4300548: pCylinder5
+    4300550: pCylinder4
+    4300552: pCylinder5
+    4300554: pCylinder4
+    4300556: pCylinder5
+    4300558: pCylinder4
+    4300560: pCylinder5
+    4300562: pCylinder4
+    4300564: pCube1
+    4300566: pCube2
+    4300568: pCube21
+    4300570: pCube2
+    4300572: pCube22
+    4300574: pCube2
+    4300576: pCube23
+    4300578: pCube2
+    4300580: B_Sign
+    4300582: inside_floor
+    4300584: outer_roof
+    4300586: roof1
+    4300588: viewpoint
+    4300590: lower_roof
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

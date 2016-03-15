@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: ce1029691fa171f40becd4faa1b730fd
+timeCreated: 1438897513
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: folder
+    100004: folder7
+    100006: folders
+    100008: hand_wipes
+    100010: hand_wipes1
+    100012: hand_wipes2
+    100014: hand_wipes3
+    100016: keyboard
+    100018: keyboard 1
+    100020: keyboard_support
+    100022: monitor
+    100024: monitor1
+    100026: monitor2
+    100028: mouse
+    100030: stuff
+    100032: tower
+    100034: wire1
+    100036: wire2
+    100038: wire3
+    100040: wires
+    400000: //RootNode
+    400002: folder
+    400004: folder7
+    400006: folders
+    400008: hand_wipes
+    400010: hand_wipes1
+    400012: hand_wipes2
+    400014: hand_wipes3
+    400016: keyboard
+    400018: keyboard 1
+    400020: keyboard_support
+    400022: monitor
+    400024: monitor1
+    400026: monitor2
+    400028: mouse
+    400030: stuff
+    400032: tower
+    400034: wire1
+    400036: wire2
+    400038: wire3
+    400040: wires
+    2300000: //RootNode
+    2300002: folder
+    2300004: folder7
+    2300006: hand_wipes1
+    2300008: hand_wipes2
+    2300010: hand_wipes3
+    2300012: keyboard 1
+    2300014: keyboard_support
+    2300016: monitor
+    2300018: monitor1
+    2300020: monitor2
+    2300022: mouse
+    2300024: tower
+    2300026: wire1
+    2300028: wire2
+    2300030: wire3
+    3300000: //RootNode
+    3300002: folder
+    3300004: folder7
+    3300006: hand_wipes1
+    3300008: hand_wipes2
+    3300010: hand_wipes3
+    3300012: keyboard 1
+    3300014: keyboard_support
+    3300016: monitor
+    3300018: monitor1
+    3300020: monitor2
+    3300022: mouse
+    3300024: tower
+    3300026: wire1
+    3300028: wire2
+    3300030: wire3
+    4300000: desk
+    4300002: monitor1
+    4300004: monitor
+    4300006: monitor2
+    4300008: keyboard
+    4300010: mouse
+    4300012: keyboard_support
+    4300014: tower
+    4300016: hand_wipes1
+    4300018: hand_wipes2
+    4300020: hand_wipes3
+    4300022: wire3
+    4300024: wire2
+    4300026: wire1
+    4300028: folder7
+    4300030: folder
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

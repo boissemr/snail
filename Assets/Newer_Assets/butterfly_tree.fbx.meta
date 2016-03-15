@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 08f524520c434aa409a16cda70f468aa
+timeCreated: 1443805142
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: butterflies
+    100002: butterfly
+    100004: butterfly1
+    100006: butterfly2
+    100008: butterfly3
+    100010: //RootNode
+    100012: frame
+    100014: frame1
+    100016: frame2
+    100018: frame3
+    100020: imagePlane1
+    100022: images
+    100024: leaf
+    100026: leaf1
+    100028: leaf10
+    100030: leaf11
+    100032: leaf12
+    100034: leaf13
+    100036: leaf14
+    100038: leaf15
+    100040: leaf16
+    100042: leaf17
+    100044: leaf18
+    100046: leaf19
+    100048: leaf2
+    100050: leaf20
+    100052: leaf21
+    100054: leaf22
+    100056: leaf23
+    100058: leaf24
+    100060: leaf25
+    100062: leaf26
+    100064: leaf27
+    100066: leaf28
+    100068: leaf29
+    100070: leaf3
+    100072: leaf30
+    100074: leaf31
+    100076: leaf32
+    100078: leaf33
+    100080: leaf34
+    100082: leaf4
+    100084: leaf5
+    100086: leaf6
+    100088: leaf7
+    100090: leaf8
+    100092: leaf9
+    100094: leaves
+    100096: pCube37
+    100098: pCube37 1
+    100100: pCube37 2
+    100102: pCube37 3
+    100104: pCube38
+    100106: pCube38 1
+    100108: pCube38 2
+    100110: pCube38 3
+    100112: pCube39
+    100114: pCube39 1
+    100116: pCube39 2
+    100118: pCube39 3
+    100120: pCube40
+    100122: pCube40 1
+    100124: pCube40 2
+    100126: pCube40 3
+    100128: pCube41
+    100130: pCube41 1
+    100132: pCube41 2
+    100134: pCube41 3
+    100136: pCube42
+    100138: pCube42 1
+    100140: pCube42 2
+    100142: pCube42 3
+    100144: picture
+    100146: picture1
+    100148: picture2
+    100150: picture3
+    100152: trunk
+    400000: butterflies
+    400002: butterfly
+    400004: butterfly1
+    400006: butterfly2
+    400008: butterfly3
+    400010: //RootNode
+    400012: frame
+    400014: frame1
+    400016: frame2
+    400018: frame3
+    400020: imagePlane1
+    400022: images
+    400024: leaf
+    400026: leaf1
+    400028: leaf10
+    400030: leaf11
+    400032: leaf12
+    400034: leaf13
+    400036: leaf14
+    400038: leaf15
+    400040: leaf16
+    400042: leaf17
+    400044: leaf18
+    400046: leaf19
+    400048: leaf2
+    400050: leaf20
+    400052: leaf21
+    400054: leaf22
+    400056: leaf23
+    400058: leaf24
+    400060: leaf25
+    400062: leaf26
+    400064: leaf27
+    400066: leaf28
+    400068: leaf29
+    400070: leaf3
+    400072: leaf30
+    400074: leaf31
+    400076: leaf32
+    400078: leaf33
+    400080: leaf34
+    400082: leaf4
+    400084: leaf5
+    400086: leaf6
+    400088: leaf7
+    400090: leaf8
+    400092: leaf9
+    400094: leaves
+    400096: pCube37
+    400098: pCube37 1
+    400100: pCube37 2
+    400102: pCube37 3
+    400104: pCube38
+    400106: pCube38 1
+    400108: pCube38 2
+    400110: pCube38 3
+    400112: pCube39
+    400114: pCube39 1
+    400116: pCube39 2
+    400118: pCube39 3
+    400120: pCube40
+    400122: pCube40 1
+    400124: pCube40 2
+    400126: pCube40 3
+    400128: pCube41
+    400130: pCube41 1
+    400132: pCube41 2
+    400134: pCube41 3
+    400136: pCube42
+    400138: pCube42 1
+    400140: pCube42 2
+    400142: pCube42 3
+    400144: picture
+    400146: picture1
+    400148: picture2
+    400150: picture3
+    400152: trunk
+    2300000: frame
+    2300002: frame1
+    2300004: frame2
+    2300006: frame3
+    2300008: leaf
+    2300010: leaf1
+    2300012: leaf10
+    2300014: leaf11
+    2300016: leaf12
+    2300018: leaf13
+    2300020: leaf14
+    2300022: leaf15
+    2300024: leaf16
+    2300026: leaf17
+    2300028: leaf18
+    2300030: leaf19
+    2300032: leaf2
+    2300034: leaf20
+    2300036: leaf21
+    2300038: leaf22
+    2300040: leaf23
+    2300042: leaf24
+    2300044: leaf25
+    2300046: leaf26
+    2300048: leaf27
+    2300050: leaf28
+    2300052: leaf29
+    2300054: leaf3
+    2300056: leaf30
+    2300058: leaf31
+    2300060: leaf32
+    2300062: leaf33
+    2300064: leaf34
+    2300066: leaf4
+    2300068: leaf5
+    2300070: leaf6
+    2300072: leaf7
+    2300074: leaf8
+    2300076: leaf9
+    2300078: pCube37
+    2300080: pCube37 1
+    2300082: pCube37 2
+    2300084: pCube37 3
+    2300086: pCube38
+    2300088: pCube38 1
+    2300090: pCube38 2
+    2300092: pCube38 3
+    2300094: pCube39
+    2300096: pCube39 1
+    2300098: pCube39 2
+    2300100: pCube39 3
+    2300102: pCube40
+    2300104: pCube40 1
+    2300106: pCube40 2
+    2300108: pCube40 3
+    2300110: pCube41
+    2300112: pCube41 1
+    2300114: pCube41 2
+    2300116: pCube41 3
+    2300118: pCube42
+    2300120: pCube42 1
+    2300122: pCube42 2
+    2300124: pCube42 3
+    2300126: picture
+    2300128: picture1
+    2300130: picture2
+    2300132: picture3
+    2300134: trunk
+    3300000: frame
+    3300002: frame1
+    3300004: frame2
+    3300006: frame3
+    3300008: leaf
+    3300010: leaf1
+    3300012: leaf10
+    3300014: leaf11
+    3300016: leaf12
+    3300018: leaf13
+    3300020: leaf14
+    3300022: leaf15
+    3300024: leaf16
+    3300026: leaf17
+    3300028: leaf18
+    3300030: leaf19
+    3300032: leaf2
+    3300034: leaf20
+    3300036: leaf21
+    3300038: leaf22
+    3300040: leaf23
+    3300042: leaf24
+    3300044: leaf25
+    3300046: leaf26
+    3300048: leaf27
+    3300050: leaf28
+    3300052: leaf29
+    3300054: leaf3
+    3300056: leaf30
+    3300058: leaf31
+    3300060: leaf32
+    3300062: leaf33
+    3300064: leaf34
+    3300066: leaf4
+    3300068: leaf5
+    3300070: leaf6
+    3300072: leaf7
+    3300074: leaf8
+    3300076: leaf9
+    3300078: pCube37
+    3300080: pCube37 1
+    3300082: pCube37 2
+    3300084: pCube37 3
+    3300086: pCube38
+    3300088: pCube38 1
+    3300090: pCube38 2
+    3300092: pCube38 3
+    3300094: pCube39
+    3300096: pCube39 1
+    3300098: pCube39 2
+    3300100: pCube39 3
+    3300102: pCube40
+    3300104: pCube40 1
+    3300106: pCube40 2
+    3300108: pCube40 3
+    3300110: pCube41
+    3300112: pCube41 1
+    3300114: pCube41 2
+    3300116: pCube41 3
+    3300118: pCube42
+    3300120: pCube42 1
+    3300122: pCube42 2
+    3300124: pCube42 3
+    3300126: picture
+    3300128: picture1
+    3300130: picture2
+    3300132: picture3
+    3300134: trunk
+    4300000: trunk
+    4300002: leaf
+    4300004: leaf1
+    4300006: leaf2
+    4300008: leaf3
+    4300010: leaf4
+    4300012: leaf5
+    4300014: leaf6
+    4300016: leaf7
+    4300018: leaf8
+    4300020: leaf9
+    4300022: leaf10
+    4300024: leaf11
+    4300026: leaf12
+    4300028: leaf13
+    4300030: leaf14
+    4300032: leaf15
+    4300034: leaf16
+    4300036: leaf17
+    4300038: leaf18
+    4300040: leaf19
+    4300042: leaf20
+    4300044: leaf21
+    4300046: leaf22
+    4300048: leaf23
+    4300050: leaf24
+    4300052: leaf25
+    4300054: leaf26
+    4300056: leaf27
+    4300058: leaf28
+    4300060: leaf29
+    4300062: leaf30
+    4300064: leaf31
+    4300066: leaf32
+    4300068: leaf33
+    4300070: leaf34
+    4300072: pCube38
+    4300074: pCube40
+    4300076: pCube39
+    4300078: pCube37
+    4300080: pCube41
+    4300082: pCube42
+    4300084: pCube38
+    4300086: pCube40
+    4300088: pCube39
+    4300090: pCube37
+    4300092: pCube41
+    4300094: pCube42
+    4300096: pCube38
+    4300098: pCube40
+    4300100: pCube39
+    4300102: pCube37
+    4300104: pCube41
+    4300106: pCube42
+    4300108: pCube38
+    4300110: pCube40
+    4300112: pCube39
+    4300114: pCube37
+    4300116: pCube41
+    4300118: pCube42
+    4300120: frame
+    4300122: picture
+    4300124: frame1
+    4300126: picture1
+    4300128: frame2
+    4300130: picture2
+    4300132: frame3
+    4300134: picture3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

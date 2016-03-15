@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: edeebd5d02b554f4691bc4f394165735
+timeCreated: 1442872687
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: baby_scale
+    100002: candy
+    100004: candy2
+    100006: countertop
+    100008: //RootNode
+    100010: folder
+    100012: folder2
+    100014: folder3
+    100016: folder4
+    100018: folder5
+    100020: folder6
+    100022: folders
+    100024: hand_wipes
+    100026: jar
+    100028: jar2
+    100030: jars
+    100032: keyboard
+    100034: keyboard_support
+    100036: monitor
+    100038: mouse
+    100040: mouse_cord
+    100042: piston
+    100044: scale
+    100046: soap_bottle
+    100048: soap_head
+    400000: baby_scale
+    400002: candy
+    400004: candy2
+    400006: countertop
+    400008: //RootNode
+    400010: folder
+    400012: folder2
+    400014: folder3
+    400016: folder4
+    400018: folder5
+    400020: folder6
+    400022: folders
+    400024: hand_wipes
+    400026: jar
+    400028: jar2
+    400030: jars
+    400032: keyboard
+    400034: keyboard_support
+    400036: monitor
+    400038: mouse
+    400040: mouse_cord
+    400042: piston
+    400044: scale
+    400046: soap_bottle
+    400048: soap_head
+    2300000: baby_scale
+    2300002: candy
+    2300004: candy2
+    2300006: countertop
+    2300008: //RootNode
+    2300010: folder
+    2300012: folder2
+    2300014: folder3
+    2300016: folder4
+    2300018: folder5
+    2300020: folder6
+    2300022: hand_wipes
+    2300024: jar
+    2300026: jar2
+    2300028: keyboard
+    2300030: keyboard_support
+    2300032: monitor
+    2300034: mouse
+    2300036: mouse_cord
+    2300038: piston
+    2300040: scale
+    2300042: soap_bottle
+    2300044: soap_head
+    3300000: baby_scale
+    3300002: candy
+    3300004: candy2
+    3300006: countertop
+    3300008: //RootNode
+    3300010: folder
+    3300012: folder2
+    3300014: folder3
+    3300016: folder4
+    3300018: folder5
+    3300020: folder6
+    3300022: hand_wipes
+    3300024: jar
+    3300026: jar2
+    3300028: keyboard
+    3300030: keyboard_support
+    3300032: monitor
+    3300034: mouse
+    3300036: mouse_cord
+    3300038: piston
+    3300040: scale
+    3300042: soap_bottle
+    3300044: soap_head
+    4300000: desk
+    4300002: monitor
+    4300004: countertop
+    4300006: keyboard_support
+    4300008: keyboard
+    4300010: mouse
+    4300012: mouse_cord
+    4300014: baby_scale
+    4300016: scale
+    4300018: piston
+    4300020: soap_bottle
+    4300022: soap_head
+    4300024: hand_wipes
+    4300026: folder
+    4300028: folder2
+    4300030: folder3
+    4300032: folder4
+    4300034: folder5
+    4300036: folder6
+    4300038: jar
+    4300040: candy2
+    4300042: jar2
+    4300044: candy
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

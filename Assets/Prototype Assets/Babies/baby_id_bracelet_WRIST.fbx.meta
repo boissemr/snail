@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: a41b635b7672f0242b9bc93001eb7005
+timeCreated: 1438735587
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: baby_open_blanket_ANKLE_ID:baby1
+    100004: baby_open_blanket_ANKLE_ID:baby:base_obj
+    100006: baby_open_blanket_ANKLE_ID:blanket
+    100008: baby_open_blanket_ANKLE_ID:hat
+    100010: baby_open_blanket_ANKLE_ID:ID_Bracelet
+    100012: baby_open_blanket_ANKLE_ID:mixamorig:Head
+    100014: baby_open_blanket_ANKLE_ID:mixamorig:HeadTop_End
+    100016: baby_open_blanket_ANKLE_ID:mixamorig:Hips
+    100018: baby_open_blanket_ANKLE_ID:mixamorig:LeftArm
+    100020: baby_open_blanket_ANKLE_ID:mixamorig:LeftFoot
+    100022: baby_open_blanket_ANKLE_ID:mixamorig:LeftForeArm
+    100024: baby_open_blanket_ANKLE_ID:mixamorig:LeftHand
+    100026: baby_open_blanket_ANKLE_ID:mixamorig:LeftLeg
+    100028: baby_open_blanket_ANKLE_ID:mixamorig:LeftShoulder
+    100030: baby_open_blanket_ANKLE_ID:mixamorig:LeftToe_End
+    100032: baby_open_blanket_ANKLE_ID:mixamorig:LeftToeBase
+    100034: baby_open_blanket_ANKLE_ID:mixamorig:LeftUpLeg
+    100036: baby_open_blanket_ANKLE_ID:mixamorig:Neck
+    100038: baby_open_blanket_ANKLE_ID:mixamorig:RightArm
+    100040: baby_open_blanket_ANKLE_ID:mixamorig:RightFoot
+    100042: baby_open_blanket_ANKLE_ID:mixamorig:RightForeArm
+    100044: baby_open_blanket_ANKLE_ID:mixamorig:RightHand
+    100046: baby_open_blanket_ANKLE_ID:mixamorig:RightLeg
+    100048: baby_open_blanket_ANKLE_ID:mixamorig:RightShoulder
+    100050: baby_open_blanket_ANKLE_ID:mixamorig:RightToe_End
+    100052: baby_open_blanket_ANKLE_ID:mixamorig:RightToeBase
+    100054: baby_open_blanket_ANKLE_ID:mixamorig:RightUpLeg
+    100056: baby_open_blanket_ANKLE_ID:mixamorig:Spine
+    100058: baby_open_blanket_ANKLE_ID:mixamorig:Spine1
+    100060: baby_open_blanket_ANKLE_ID:mixamorig:Spine2
+    400000: //RootNode
+    400002: baby_open_blanket_ANKLE_ID:baby1
+    400004: baby_open_blanket_ANKLE_ID:baby:base_obj
+    400006: baby_open_blanket_ANKLE_ID:blanket
+    400008: baby_open_blanket_ANKLE_ID:hat
+    400010: baby_open_blanket_ANKLE_ID:ID_Bracelet
+    400012: baby_open_blanket_ANKLE_ID:mixamorig:Head
+    400014: baby_open_blanket_ANKLE_ID:mixamorig:HeadTop_End
+    400016: baby_open_blanket_ANKLE_ID:mixamorig:Hips
+    400018: baby_open_blanket_ANKLE_ID:mixamorig:LeftArm
+    400020: baby_open_blanket_ANKLE_ID:mixamorig:LeftFoot
+    400022: baby_open_blanket_ANKLE_ID:mixamorig:LeftForeArm
+    400024: baby_open_blanket_ANKLE_ID:mixamorig:LeftHand
+    400026: baby_open_blanket_ANKLE_ID:mixamorig:LeftLeg
+    400028: baby_open_blanket_ANKLE_ID:mixamorig:LeftShoulder
+    400030: baby_open_blanket_ANKLE_ID:mixamorig:LeftToe_End
+    400032: baby_open_blanket_ANKLE_ID:mixamorig:LeftToeBase
+    400034: baby_open_blanket_ANKLE_ID:mixamorig:LeftUpLeg
+    400036: baby_open_blanket_ANKLE_ID:mixamorig:Neck
+    400038: baby_open_blanket_ANKLE_ID:mixamorig:RightArm
+    400040: baby_open_blanket_ANKLE_ID:mixamorig:RightFoot
+    400042: baby_open_blanket_ANKLE_ID:mixamorig:RightForeArm
+    400044: baby_open_blanket_ANKLE_ID:mixamorig:RightHand
+    400046: baby_open_blanket_ANKLE_ID:mixamorig:RightLeg
+    400048: baby_open_blanket_ANKLE_ID:mixamorig:RightShoulder
+    400050: baby_open_blanket_ANKLE_ID:mixamorig:RightToe_End
+    400052: baby_open_blanket_ANKLE_ID:mixamorig:RightToeBase
+    400054: baby_open_blanket_ANKLE_ID:mixamorig:RightUpLeg
+    400056: baby_open_blanket_ANKLE_ID:mixamorig:Spine
+    400058: baby_open_blanket_ANKLE_ID:mixamorig:Spine1
+    400060: baby_open_blanket_ANKLE_ID:mixamorig:Spine2
+    2300000: baby_open_blanket_ANKLE_ID:blanket
+    2300002: baby_open_blanket_ANKLE_ID:ID_Bracelet
+    3300000: baby_open_blanket_ANKLE_ID:blanket
+    3300002: baby_open_blanket_ANKLE_ID:ID_Bracelet
+    4300000: baby_open_blanket_ANKLE_ID:ID_Bracelet
+    4300002: baby_open_blanket_ANKLE_ID:blanket
+    4300004: baby_open_blanket_ANKLE_ID:baby:base_obj
+    4300006: baby_open_blanket_ANKLE_ID:hat
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: baby_open_blanket_ANKLE_ID:baby:base_obj
+    13700002: baby_open_blanket_ANKLE_ID:hat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

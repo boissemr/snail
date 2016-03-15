@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 84b322420d70d2f4d93d0f9bd5721da5
+timeCreated: 1442871904
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: curve1
+    100002: door
+    100004: extinguisher
+    100006: extinguisher_cylinder
+    100008: //RootNode
+    100010: handle
+    100012: hose
+    100014: meter
+    100016: nozzle
+    100018: sign
+    400000: curve1
+    400002: door
+    400004: extinguisher
+    400006: extinguisher_cylinder
+    400008: //RootNode
+    400010: handle
+    400012: hose
+    400014: meter
+    400016: nozzle
+    400018: sign
+    2300000: door
+    2300002: extinguisher_cylinder
+    2300004: //RootNode
+    2300006: handle
+    2300008: hose
+    2300010: meter
+    2300012: nozzle
+    2300014: sign
+    3300000: door
+    3300002: extinguisher_cylinder
+    3300004: //RootNode
+    3300006: handle
+    3300008: hose
+    3300010: meter
+    3300012: nozzle
+    3300014: sign
+    4300000: box1
+    4300002: door
+    4300004: handle
+    4300006: extinguisher_cylinder
+    4300008: nozzle
+    4300010: meter
+    4300012: hose
+    4300014: sign
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

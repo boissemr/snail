@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 80d7dd75ddff91a4f9c0c7113b652d5a
+timeCreated: 1455990766
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: bag
+    100002: cabinet
+    100004: cabinet1
+    100006: //RootNode
+    100008: counterTop
+    100010: drawer
+    100012: drawer 1
+    100014: drawer1
+    100016: drawer1 1
+    100018: drawer2
+    100020: drawer2 1
+    100022: drawers
+    100024: drawers 1
+    100026: handle
+    100028: handle 1
+    100030: handle1
+    100032: handle1 1
+    100034: handle2
+    100036: handle2 1
+    100038: trashCan
+    400000: bag
+    400002: cabinet
+    400004: cabinet1
+    400006: //RootNode
+    400008: counterTop
+    400010: drawer
+    400012: drawer 1
+    400014: drawer1
+    400016: drawer1 1
+    400018: drawer2
+    400020: drawer2 1
+    400022: drawers
+    400024: drawers 1
+    400026: handle
+    400028: handle 1
+    400030: handle1
+    400032: handle1 1
+    400034: handle2
+    400036: handle2 1
+    400038: trashCan
+    2300000: bag
+    2300002: cabinet
+    2300004: cabinet1
+    2300006: //RootNode
+    2300008: counterTop
+    2300010: drawer
+    2300012: drawer 1
+    2300014: drawer1
+    2300016: drawer1 1
+    2300018: drawer2
+    2300020: drawer2 1
+    2300022: handle
+    2300024: handle 1
+    2300026: handle1
+    2300028: handle1 1
+    2300030: handle2
+    2300032: handle2 1
+    2300034: trashCan
+    3300000: bag
+    3300002: cabinet
+    3300004: cabinet1
+    3300006: //RootNode
+    3300008: counterTop
+    3300010: drawer
+    3300012: drawer 1
+    3300014: drawer1
+    3300016: drawer1 1
+    3300018: drawer2
+    3300020: drawer2 1
+    3300022: handle
+    3300024: handle 1
+    3300026: handle1
+    3300028: handle1 1
+    3300030: handle2
+    3300032: handle2 1
+    3300034: trashCan
+    4300000: CincinnatiFetalCenterSign
+    4300002: counterTop
+    4300004: cabinet
+    4300006: drawer2
+    4300008: handle2
+    4300010: drawer1
+    4300012: handle1
+    4300014: drawer
+    4300016: handle
+    4300018: cabinet1
+    4300020: drawer2
+    4300022: handle2
+    4300024: drawer1
+    4300026: handle1
+    4300028: drawer
+    4300030: handle
+    4300032: trashCan
+    4300034: bag
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

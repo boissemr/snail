@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 1b4d08b08b973c44c8676ebf0e826577
+timeCreated: 1439337305
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: glass_window_thing
+    100002: head
+    100004: legs
+    100006: neck
+    100008: //RootNode
+    100010: wheel
+    100012: wheel 1
+    100014: wheel 2
+    100016: wheel 3
+    100018: wheel_frame_thing
+    100020: wheel_frame_thing1
+    100022: wheel_frame_thing2
+    100024: wheel_frame_thing3
+    100026: wheels
+    400000: glass_window_thing
+    400002: head
+    400004: legs
+    400006: neck
+    400008: //RootNode
+    400010: wheel
+    400012: wheel 1
+    400014: wheel 2
+    400016: wheel 3
+    400018: wheel_frame_thing
+    400020: wheel_frame_thing1
+    400022: wheel_frame_thing2
+    400024: wheel_frame_thing3
+    400026: wheels
+    2300000: glass_window_thing
+    2300002: head
+    2300004: legs
+    2300006: neck
+    2300008: //RootNode
+    2300010: wheel
+    2300012: wheel 1
+    2300014: wheel 2
+    2300016: wheel 3
+    2300018: wheel_frame_thing
+    2300020: wheel_frame_thing1
+    2300022: wheel_frame_thing2
+    2300024: wheel_frame_thing3
+    3300000: glass_window_thing
+    3300002: head
+    3300004: legs
+    3300006: neck
+    3300008: //RootNode
+    3300010: wheel
+    3300012: wheel 1
+    3300014: wheel 2
+    3300016: wheel 3
+    3300018: wheel_frame_thing
+    3300020: wheel_frame_thing1
+    3300022: wheel_frame_thing2
+    3300024: wheel_frame_thing3
+    4300000: torso
+    4300002: neck
+    4300004: glass_window_thing
+    4300006: head
+    4300008: legs
+    4300010: wheel_frame_thing3
+    4300012: wheel
+    4300014: wheel_frame_thing2
+    4300016: wheel
+    4300018: wheel_frame_thing1
+    4300020: wheel
+    4300022: wheel_frame_thing
+    4300024: wheel
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
